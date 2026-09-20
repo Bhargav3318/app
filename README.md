@@ -19,7 +19,7 @@ npm run check
 
 ## Data and privacy
 
-- Austin: [Issued Construction Permits](https://data.austintexas.gov/Building-and-Development/Issued-Construction-Permits/3syk-w9eu), searched live through its public Socrata API.
+- Austin: [Issued Construction Permits](https://data.austintexas.gov/Building-and-Development/Issued-Construction-Permits/3syk-w9eu), provided by Austin Development Services and searched live through its public Socrata API under the City's [Open Data Terms of Use](https://data.austintexas.gov/stories/s/ranj-cccq).
 - Dallas: [Building Permits](https://www.dallasopendata.com/Services/Building-Permits/e7gq-4sah), a historical dataset that the publisher says is no longer updated. Current lookup uses [Dallas Accela](https://aca-prod.accela.com/DALLASTX/Login.aspx).
 - San Antonio: [Building Permits](https://data.sanantonio.gov/dataset/building-permits), searched live through its public CKAN API across current and 2020–2024 issued-permit resources.
 - Houston: [Permit Activity Report](https://houstontx.gov/planning/Publications/listsrv/WebeReport.html), stored as a searchable weekly snapshot. The broader [Sold Permits Search](https://www.houstonpermittingcenter.org/sold-permits-search) remains the official route for its rolling three-year scope.
