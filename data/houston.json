@@ -1,0 +1,2543 @@
+{
+  "source": "https://houstontx.gov/planning/Publications/listsrv/WebeReport.html",
+  "retrievedAt": "2026-09-20T03:00:49.826Z",
+  "coverage": "City weekly Permit Activity Report",
+  "records": [
+    {
+      "zip": "77002",
+      "issued": "2026/09/09",
+      "type": "Building Pmt",
+      "number": "26070754",
+      "address": "1201 LOUISIANA ST 2750",
+      "description": "REM. 1,350 S/F HIGH-RISE OFFICE 1-35-1-B-A 100% SPRK-FA 2021 IBC"
+    },
+    {
+      "zip": "77002",
+      "issued": "2026/09/11",
+      "type": "Building Pmt",
+      "number": "26077304",
+      "address": "1111 LOUISIANA ST FL 40",
+      "description": "DEMO OF INTERIOR NON-LOAD BEARING NON-FIRE RATED WALLS 2021 IBC"
+    },
+    {
+      "zip": "77003",
+      "issued": "2026/09/10",
+      "type": "Building Pmt",
+      "number": "26031097",
+      "address": "721 1/2 N DRENNAN ST BRDGE",
+      "description": "NEW PEDESTRIAN BRIDGE W/STWRK 1-1-2-U-B 2021 IBC"
+    },
+    {
+      "zip": "77004",
+      "issued": "2026/09/11",
+      "type": "Building Pmt",
+      "number": "25060289",
+      "address": "2817 HOLMAN ST",
+      "description": "S.F. RES W/ATT. GARAGE (1-2-5-R3-B) 21 IRC/21 IECC"
+    },
+    {
+      "zip": "77004",
+      "issued": "2026/09/08",
+      "type": "Building Pmt",
+      "number": "26051307",
+      "address": "3316 DENNIS ST A & B",
+      "description": "DUPLEX RES W/ATT. GARAGE (1-2-5-R3-B) 21 IRC/21 IECC"
+    },
+    {
+      "zip": "77004",
+      "issued": "2026/09/08",
+      "type": "Building Pmt",
+      "number": "26051381",
+      "address": "3310 DENNIS ST A & B",
+      "description": "DUPLEX RES W/ATT. GARAGE (1-2-5-R3-B) 21 IRC/21 IECC"
+    },
+    {
+      "zip": "77004",
+      "issued": "2026/09/08",
+      "type": "Building Pmt",
+      "number": "26056232",
+      "address": "3320 DENNIS ST A & B",
+      "description": "DUPLEX RES W/ATT. GARAGE (1-2-5-R3-B) 21 IRC/21 IECC"
+    },
+    {
+      "zip": "77004",
+      "issued": "2026/09/08",
+      "type": "Building Pmt",
+      "number": "26056233",
+      "address": "3324 DENNIS ST A & B",
+      "description": "DUPLEX RES W/ATT. GARAGE (1-2-5-R3-B) 21 IRC/21 IECC"
+    },
+    {
+      "zip": "77004",
+      "issued": "2026/09/08",
+      "type": "Building Pmt",
+      "number": "26056235",
+      "address": "3414 DENNIS ST A&B",
+      "description": "DUPLEX RES W/ATT. GARAGE (1-2-5-R3-B) 21 IRC/21 IECC"
+    },
+    {
+      "zip": "77004",
+      "issued": "2026/09/08",
+      "type": "Building Pmt",
+      "number": "26056236",
+      "address": "3106 MCILHENNY ST A & B",
+      "description": "DUPLEX RES W/ATT. GARAGE (1-2-5-R3-B) 21 IRC/21 IECC"
+    },
+    {
+      "zip": "77004",
+      "issued": "2026/09/08",
+      "type": "Building Pmt",
+      "number": "26075713",
+      "address": "4646 SCOTT ST",
+      "description": "DEMO OF INTERIOR NON-LOAD BEARING NON-FIRE RATED WALLS 2021 IBC"
+    },
+    {
+      "zip": "77004",
+      "issued": "2026/09/11",
+      "type": "Building Pmt",
+      "number": "26079631",
+      "address": "3010 MCGOWEN ST",
+      "description": "PPR APT. STAIRS REPAIRS PER SPEC LIST 1-2-5-R2-B 2021 IBC"
+    },
+    {
+      "zip": "77005",
+      "issued": "2026/09/08",
+      "type": "Building Pmt",
+      "number": "26059015",
+      "address": "4123 DRAKE ST",
+      "description": "RESIDENTIAL REMODEL 2021 IRC"
+    },
+    {
+      "zip": "77006",
+      "issued": "2026/09/11",
+      "type": "Building Pmt",
+      "number": "26007703",
+      "address": "1302 SUL ROSS ST",
+      "description": "95,622 APT BLDG SHELL & BLDOUT(M/2) 1-5-2-R2/B/S2/A3-B '21 IBC SPK"
+    },
+    {
+      "zip": "77006",
+      "issued": "2026/09/11",
+      "type": "Building Pmt",
+      "number": "26038134",
+      "address": "1302 SUL ROSS ST FP",
+      "description": "FIRE PUMP (2/2) 1-5-2-R2/B/S2/A3-B '21 IBC SPK/FA"
+    },
+    {
+      "zip": "77006",
+      "issued": "2026/09/10",
+      "type": "Building Pmt",
+      "number": "26038282",
+      "address": "1508 VASSAR ST",
+      "description": "NEW DETACHED GAR W/APT ABOVE (1-2-5-R3-B) 21 IRC/21 IECC"
+    },
+    {
+      "zip": "77006",
+      "issued": "2026/09/08",
+      "type": "Building Pmt",
+      "number": "26062739",
+      "address": "1636 MILFORD ST",
+      "description": "QS2 S.F. RES W/ATT. GARAGE (1-2-5-R3-B) 21 IRC/21 IECC"
+    },
+    {
+      "zip": "77006",
+      "issued": "2026/09/10",
+      "type": "Building Pmt",
+      "number": "26069577",
+      "address": "3818 BUTE ST",
+      "description": "RESIDENTIAL FOUNDATION REPAIR (4 EXTERIOR AND 5 INTERIOR PILES)"
+    },
+    {
+      "zip": "77006",
+      "issued": "2026/09/09",
+      "type": "Building Pmt",
+      "number": "26073294",
+      "address": "4203 MONTROSE BLVD 270",
+      "description": "OFFICE REMODEL 1-6-2-B-A-100%SPK-FA 2021 IBC"
+    },
+    {
+      "zip": "77006",
+      "issued": "2026/09/10",
+      "type": "Demolition",
+      "number": "26074062",
+      "address": "920 PEDEN ST",
+      "description": "DEMO RES/SEWER DISC"
+    },
+    {
+      "zip": "77006",
+      "issued": "2026/09/10",
+      "type": "Demolition",
+      "number": "26074066",
+      "address": "918 PEDEN ST",
+      "description": "DEMO RES/SEWER DISC"
+    },
+    {
+      "zip": "77006",
+      "issued": "2026/09/09",
+      "type": "Building Pmt",
+      "number": "26075445",
+      "address": "1660 HAWTHORNE ST BLD 1",
+      "description": "RESIDENTIAL FOUNDATION REPAIRS 2021 IRC/ 2021 IECC."
+    },
+    {
+      "zip": "77006",
+      "issued": "2026/09/08",
+      "type": "Building Pmt",
+      "number": "26078173",
+      "address": "235 WESTHEIMER RD",
+      "description": "PPR RESIDENTIAL FOUNDATION REPAIR"
+    },
+    {
+      "zip": "77006",
+      "issued": "2026/09/09",
+      "type": "Building Pmt",
+      "number": "26078933",
+      "address": "5000 MONTROSE BLVD 11B",
+      "description": "PPR HI-RISE CONDO 400 SQ. FT. REMODEL 1-22-1-R2-A 2021 IBC"
+    },
+    {
+      "zip": "77006",
+      "issued": "2026/09/10",
+      "type": "Building Pmt",
+      "number": "26079252",
+      "address": "612 BRANARD ST BLD 1",
+      "description": "PPR REPAIRS PER SPEC LIST 1-2-5-R2-B 2021 IBC"
+    },
+    {
+      "zip": "77006",
+      "issued": "2026/09/10",
+      "type": "Building Pmt",
+      "number": "26079262",
+      "address": "612 BRANARD ST BLD 2",
+      "description": "PPR REPAIRS PER SPEC LIST 1-2-5-R2-B 2021 IBC"
+    },
+    {
+      "zip": "77007",
+      "issued": "2026/09/10",
+      "type": "Building Pmt",
+      "number": "26038541",
+      "address": "601 W 6TH ST 100",
+      "description": "92320SF RETURN TO SHELL W/MODIFICATIONS 1-1-2-SH-B 2021 IBC SPK/FA"
+    },
+    {
+      "zip": "77007",
+      "issued": "2026/09/10",
+      "type": "Building Pmt",
+      "number": "26065640",
+      "address": "601 W 6TH ST 200A",
+      "description": "25,555 SF OFFICE WAREHOUSE REMODEL 1-1-2-S1/B-B 2021 IBC SPK/FA"
+    },
+    {
+      "zip": "77007",
+      "issued": "2026/09/10",
+      "type": "Building Pmt",
+      "number": "26068706",
+      "address": "525 YALE ST BLD 2",
+      "description": "APARTMENT REPAIRS PER SPEC LIST 1-5-5-R2-A 2021 IBC"
+    },
+    {
+      "zip": "77007",
+      "issued": "2026/09/11",
+      "type": "Building Pmt",
+      "number": "26070268",
+      "address": "4123 DICKSON ST",
+      "description": "RESIDENTIAL REPAIR PER SPEC LIST"
+    },
+    {
+      "zip": "77007",
+      "issued": "2026/09/09",
+      "type": "Building Pmt",
+      "number": "26077594",
+      "address": "5201 MEMORIAL DR 342",
+      "description": "PPR - CONDO REPAIR PER SPEC LIST 1-6-5-R2-B 2021 IBC"
+    },
+    {
+      "zip": "77007",
+      "issued": "2026/09/09",
+      "type": "Building Pmt",
+      "number": "26077857",
+      "address": "5201 MEMORIAL DR 507",
+      "description": "PPR CONDO (7%) WATER DAMAGE REPAIRS 1-6-1-R2-B-SPK '21 IBC"
+    },
+    {
+      "zip": "77007",
+      "issued": "2026/09/09",
+      "type": "Building Pmt",
+      "number": "26077860",
+      "address": "5201 MEMORIAL DR 533",
+      "description": "PPR CONDO (7%) WATER DAMAGE REPAIRS 1-6-1-R2-B-SPK '21 IBC"
+    },
+    {
+      "zip": "77007",
+      "issued": "2026/09/09",
+      "type": "Building Pmt",
+      "number": "26077922",
+      "address": "5201 MEMORIAL DR 611",
+      "description": "PPR CONDO 7% WATER DAMAGE REPAIRS PER SPEC LIST 1-6-1-R2-B-SPK 202"
+    },
+    {
+      "zip": "77007",
+      "issued": "2026/09/09",
+      "type": "Building Pmt",
+      "number": "26077924",
+      "address": "5201 MEMORIAL DR 542",
+      "description": "PPR CONDO (7%) WATER DAMAGE REPAIRS 1-6-1-R2-B-SPK '21 IBC"
+    },
+    {
+      "zip": "77007",
+      "issued": "2026/09/09",
+      "type": "Building Pmt",
+      "number": "26077992",
+      "address": "5201 MEMORIAL DR 630",
+      "description": "PPR CONDO 7% WATER DAMAGE REPAIRS PER SPEC LIST 1-6-1-R2-B-SPK 202"
+    },
+    {
+      "zip": "77007",
+      "issued": "2026/09/09",
+      "type": "Building Pmt",
+      "number": "26077994",
+      "address": "5201 MEMORIAL DR 629",
+      "description": "PPR CONDO (7%) WATER DAMAGE REPAIRS 1-6-1-R2-B-SPK '21 IBC"
+    },
+    {
+      "zip": "77007",
+      "issued": "2026/09/09",
+      "type": "Building Pmt",
+      "number": "26078014",
+      "address": "5201 MEMORIAL DR 644",
+      "description": "PPR CONDO (7%) WATER DAMAGE REPAIRS 1-6-1-R2-B-SPK '21 IBC"
+    },
+    {
+      "zip": "77007",
+      "issued": "2026/09/09",
+      "type": "Building Pmt",
+      "number": "26078016",
+      "address": "5201 MEMORIAL DR 642",
+      "description": "PPR CONDO (7%) WATER DAMAGE REPAIRS 1-6-1-R2-B-SPK '21 IBC"
+    },
+    {
+      "zip": "77008",
+      "issued": "2026/09/08",
+      "type": "Building Pmt",
+      "number": "26049226",
+      "address": "321 E 24TH ST",
+      "description": "S.F. RES W/ATT. GARAGE (1-2-5-R3-B) 21 IRC/21 IECC"
+    },
+    {
+      "zip": "77008",
+      "issued": "2026/09/09",
+      "type": "Building Pmt",
+      "number": "26063421",
+      "address": "6131 ABINGTON WAY",
+      "description": "S.F. RES W/ATT. GARAGE (1-2-5-R3-B) 21 IRC/21 IECC"
+    },
+    {
+      "zip": "77008",
+      "issued": "2026/09/10",
+      "type": "Building Pmt",
+      "number": "26076111",
+      "address": "734 E 18TH ST",
+      "description": "RESIDENTIAL BLOCK AND BASE FOUNDATION REPAIR 2021 IRC"
+    },
+    {
+      "zip": "77008",
+      "issued": "2026/09/11",
+      "type": "Building Pmt",
+      "number": "26076919",
+      "address": "1103 CLOVIS RD",
+      "description": "RESIDENTIAL FOUNDATION REPAIR (2 EXTERIOR)"
+    },
+    {
+      "zip": "77008",
+      "issued": "2026/09/09",
+      "type": "Building Pmt",
+      "number": "26077732",
+      "address": "1521 COLUMBIA ST",
+      "description": "PPR RESIDENTIAL ADDITION 2021 IRC/2021 IECC."
+    },
+    {
+      "zip": "77008",
+      "issued": "2026/09/09",
+      "type": "Building Pmt",
+      "number": "26078561",
+      "address": "1810 LOCKSFORD ST",
+      "description": "PPR RESIDENTIAL ADDITION"
+    },
+    {
+      "zip": "77009",
+      "issued": "2026/09/09",
+      "type": "Building Pmt",
+      "number": "26029305",
+      "address": "1136 ALGREGG ST",
+      "description": "RESIDENTIAL REMODEL 2021 IRC/2021 IECC."
+    },
+    {
+      "zip": "77009",
+      "issued": "2026/09/10",
+      "type": "Building Pmt",
+      "number": "26033804",
+      "address": "729 E 27TH ST",
+      "description": "S.F. RES W/ATT. GARAGE (1-2-5-R3-B) 21 IRC/21 IECC (M# 26033803)"
+    },
+    {
+      "zip": "77009",
+      "issued": "2026/09/10",
+      "type": "Building Pmt",
+      "number": "26033805",
+      "address": "727 E 27TH ST",
+      "description": "S.F. RES W/ATT. GARAGE (1-2-5-R3-B) 21 IRC/21 IECC (M# 26033803)"
+    },
+    {
+      "zip": "77009",
+      "issued": "2026/09/10",
+      "type": "Building Pmt",
+      "number": "26033806",
+      "address": "725 E 27TH ST",
+      "description": "S.F. RES W/ATT. GARAGE (1-2-5-R3-B) 21 IRC/21 IECC (M# 26033803)"
+    },
+    {
+      "zip": "77009",
+      "issued": "2026/09/10",
+      "type": "Building Pmt",
+      "number": "26033807",
+      "address": "723 E 27TH ST",
+      "description": "S.F. RES W/ATT. GARAGE (1-2-5-R3-B) 21 IRC/21 IECC (M# 26033803)"
+    },
+    {
+      "zip": "77009",
+      "issued": "2026/09/10",
+      "type": "Building Pmt",
+      "number": "26033808",
+      "address": "721 E 27TH ST",
+      "description": "S.F. RES W/ATT. GARAGE (1-2-5-R3-B) 21 IRC/21 IECC (M# 26033803)"
+    },
+    {
+      "zip": "77009",
+      "issued": "2026/09/08",
+      "type": "Building Pmt",
+      "number": "26062695",
+      "address": "2219 KEENE ST",
+      "description": "NEW RES. SWIMMING POOL 1-2-5-R3-B 2021 IRC"
+    },
+    {
+      "zip": "77009",
+      "issued": "2026/09/11",
+      "type": "Building Pmt",
+      "number": "26065104",
+      "address": "217 TEETSHORN ST",
+      "description": "QS2 S.F. RES W/ATT. GARAGE (1-2-5-R3-B) 21 IRC/21 IECC"
+    },
+    {
+      "zip": "77009",
+      "issued": "2026/09/11",
+      "type": "Building Pmt",
+      "number": "26065390",
+      "address": "417 HIGHLAND ST",
+      "description": "RES. ADDITION & REMODEL, 2021 IRC / IECC"
+    },
+    {
+      "zip": "77009",
+      "issued": "2026/09/09",
+      "type": "Building Pmt",
+      "number": "26070741",
+      "address": "1122 LOUISE ST",
+      "description": "RESIDENTIAL SWIMMING POOL / SPA 2021 IRC / IECC"
+    },
+    {
+      "zip": "77009",
+      "issued": "2026/09/08",
+      "type": "Building Pmt",
+      "number": "26077017",
+      "address": "1011 FUGATE ST",
+      "description": "RESIDENTIAL ADDITION & REMODEL 2021 IRC"
+    },
+    {
+      "zip": "77009",
+      "issued": "2026/09/09",
+      "type": "Building Pmt",
+      "number": "26078743",
+      "address": "114 VIEUX CARRE (PVT)",
+      "description": "MINOR RESIDENTIAL REPAIRS, SINGLE FAMILY RESIDENTIAL"
+    },
+    {
+      "zip": "77009",
+      "issued": "2026/09/09",
+      "type": "Building Pmt",
+      "number": "26078793",
+      "address": "2807 JULIAN ST",
+      "description": "PPR RESIDENTIAL PERGOLA ADDITION"
+    },
+    {
+      "zip": "77009",
+      "issued": "2026/09/09",
+      "type": "Building Pmt",
+      "number": "26078902",
+      "address": "2005 COMMON ST",
+      "description": "PPR RESIDENTIAL REPAIR"
+    },
+    {
+      "zip": "77009",
+      "issued": "2026/09/10",
+      "type": "Building Pmt",
+      "number": "26079226",
+      "address": "1412 TABOR ST",
+      "description": "RESIDENTIAL BLOCK AND BASE FOUNDATION REPAIR 2021 IRC"
+    },
+    {
+      "zip": "77009",
+      "issued": "2026/09/11",
+      "type": "Building Pmt",
+      "number": "26079368",
+      "address": "1013 WOODLAND ST",
+      "description": "PPR RESIDENTIAL POOL"
+    },
+    {
+      "zip": "77012",
+      "issued": "2026/09/09",
+      "type": "Building Pmt",
+      "number": "26078752",
+      "address": "9318 E AVENUE K",
+      "description": "MINOR RESIDENTIAL REPAIRS, SINGLE FAMILY RESIDENTIAL"
+    },
+    {
+      "zip": "77016",
+      "issued": "2026/09/10",
+      "type": "Building Pmt",
+      "number": "26079401",
+      "address": "7248 PARKER RD",
+      "description": "MINOR RESIDENTIAL REPAIRS, SINGLE FAMILY RESIDENTIAL"
+    },
+    {
+      "zip": "77016",
+      "issued": "2026/09/11",
+      "type": "Building Pmt",
+      "number": "26079606",
+      "address": "5407 KNIGHTWOOD ST",
+      "description": "PPR RESIDENTIAL REMODEL"
+    },
+    {
+      "zip": "77018",
+      "issued": "2026/09/10",
+      "type": "Building Pmt",
+      "number": "26047518",
+      "address": "1511 W 34TH ST",
+      "description": "CONV. 6,076 S/F OFFICE LEASE TO A CLINIC 1-1-5-B-B 2021 IBC SPK/FA"
+    },
+    {
+      "zip": "77018",
+      "issued": "2026/09/11",
+      "type": "Building Pmt",
+      "number": "26065349",
+      "address": "1855 LATEXO DR",
+      "description": "QS2 S.F. RES W/ATT. GARAGE (1-2-5-R3-B) 21 IRC/21 IECC"
+    },
+    {
+      "zip": "77018",
+      "issued": "2026/09/08",
+      "type": "Building Pmt",
+      "number": "26065447",
+      "address": "1810 NINA LEE LN",
+      "description": "RESIDENTIAL ADDITION 2021 IRC"
+    },
+    {
+      "zip": "77018",
+      "issued": "2026/09/10",
+      "type": "Building Pmt",
+      "number": "26067092",
+      "address": "4204 CORTLANDT ST",
+      "description": "S.F. RES. NO . GAR (REPEAT MODEL- CREATE 2565-3) 21 IRC/21 IECC"
+    },
+    {
+      "zip": "77018",
+      "issued": "2026/09/12",
+      "type": "Building Pmt",
+      "number": "26069820",
+      "address": "1327 LEHMAN ST",
+      "description": "RESIDENTIAL REMOVE AND REPLACE DRIVEWAY/FLATWORK"
+    },
+    {
+      "zip": "77018",
+      "issued": "2026/09/09",
+      "type": "Building Pmt",
+      "number": "26071962",
+      "address": "910 LEHMAN ST BLD 2",
+      "description": "EMERGENCY HABITABILITY REPAIRS SUB BLD 2 SEE MASTER 22072841"
+    },
+    {
+      "zip": "77018",
+      "issued": "2026/09/09",
+      "type": "Building Pmt",
+      "number": "26071966",
+      "address": "910 LEHMAN ST BLD 4",
+      "description": "EMERGENCY HABITABILITY REPAIRS SUB BLD 4 SEE MASTER 22072841"
+    },
+    {
+      "zip": "77018",
+      "issued": "2026/09/10",
+      "type": "Building Pmt",
+      "number": "26073470",
+      "address": "1851 CHESHIRE LN",
+      "description": "NEW RES. SWIMMING POOL"
+    },
+    {
+      "zip": "77018",
+      "issued": "2026/09/08",
+      "type": "Demolition",
+      "number": "26074524",
+      "address": "1509 ALTHEA DR",
+      "description": "RES DEMO/SEWER DISC"
+    },
+    {
+      "zip": "77018",
+      "issued": "2026/09/10",
+      "type": "Building Pmt",
+      "number": "26074655",
+      "address": "826 W 41ST ST",
+      "description": "QS2 S.F. RES W/ATT. GARAGE (1-2-5-R3-B) 21 IRC/21 IECC"
+    },
+    {
+      "zip": "77018",
+      "issued": "2026/09/09",
+      "type": "Building Pmt",
+      "number": "26075181",
+      "address": "4402 LORINDA DR",
+      "description": "RESIDENTIAL REMODEL, 2021 IRC / IECC"
+    },
+    {
+      "zip": "77018",
+      "issued": "2026/09/11",
+      "type": "Demolition",
+      "number": "26078171",
+      "address": "915 W 42ND ST",
+      "description": "DEMO RES/SEWER DISC"
+    },
+    {
+      "zip": "77018",
+      "issued": "2026/09/08",
+      "type": "Building Pmt",
+      "number": "26078333",
+      "address": "404 W 30TH ST",
+      "description": "MINOR RESIDENTIAL REPAIRS, SINGLE FAMILY RESIDENTIAL"
+    },
+    {
+      "zip": "77018",
+      "issued": "2026/09/10",
+      "type": "Demolition",
+      "number": "26078531",
+      "address": "1602 VIKING DR",
+      "description": "DEMO RES/SEWER DISC"
+    },
+    {
+      "zip": "77019",
+      "issued": "2026/09/11",
+      "type": "Building Pmt",
+      "number": "25089135",
+      "address": "1709 PARK ST",
+      "description": "QS2 S.F. RES W/ATT. GARAGE (1-3-5-R3-B) 21 IRC/21 IECC (MST OF 2)"
+    },
+    {
+      "zip": "77019",
+      "issued": "2026/09/11",
+      "type": "Building Pmt",
+      "number": "25089136",
+      "address": "1711 PARK ST",
+      "description": "S.F. RES W/ATT. GARAGE (1-3-5-R3-B) 21 IRC/21 IECC (M # 25089136)"
+    },
+    {
+      "zip": "77019",
+      "issued": "2026/09/10",
+      "type": "Building Pmt",
+      "number": "26051631",
+      "address": "1921 W MCKINNEY ST",
+      "description": "NEW RESIDENTIAL FENCE, 2021 IRC"
+    },
+    {
+      "zip": "77019",
+      "issued": "2026/09/10",
+      "type": "Demolition",
+      "number": "26070017",
+      "address": "3735 DEL MONTE DR",
+      "description": "DEMO RES/SEWER DISC"
+    },
+    {
+      "zip": "77019",
+      "issued": "2026/09/09",
+      "type": "Building Pmt",
+      "number": "26078403",
+      "address": "1810 HAZARD ST A",
+      "description": "RESIDENTIAL BEDROOM CONVERSION/REMODEL"
+    },
+    {
+      "zip": "77019",
+      "issued": "2026/09/10",
+      "type": "Building Pmt",
+      "number": "26079158",
+      "address": "2502 ELLA LEE LN",
+      "description": "RESIDENTIAL BLOCK AND BASE FOUNDATION REPAIR 2021 IRC"
+    },
+    {
+      "zip": "77021",
+      "issued": "2026/09/11",
+      "type": "Building Pmt",
+      "number": "26043815",
+      "address": "3622 OLD SPANISH TRL A",
+      "description": "1800 SQ FT WAREHOUSE AND OFFICE BUILDOUT 1-1-2-B/S1-B 2021 IBC"
+    },
+    {
+      "zip": "77021",
+      "issued": "2026/09/09",
+      "type": "Building Pmt",
+      "number": "26059518",
+      "address": "7453 LA SALETTE ST",
+      "description": "UTILITY SITEWORK FOR (3) TOWNHOMES 2021 IBC"
+    },
+    {
+      "zip": "77021",
+      "issued": "2026/09/09",
+      "type": "Building Pmt",
+      "number": "26068530",
+      "address": "6420 LEVIT GREEN BLVD 100",
+      "description": "10,218 SF OFFICE/LABORATORY BUILDOUT 1-5-1-B-B-2021 IBC 100 % SP"
+    },
+    {
+      "zip": "77021",
+      "issued": "2026/09/11",
+      "type": "Demolition",
+      "number": "26079191",
+      "address": "6604 CONLEY ST",
+      "description": "DEMO RES/SEWER DISC"
+    },
+    {
+      "zip": "77022",
+      "issued": "2026/09/10",
+      "type": "Building Pmt",
+      "number": "26057182",
+      "address": "9199 W HARDY RD",
+      "description": "NEW TWO 20,000 GALLON AST - DIESEL TANKS 21 IBC"
+    },
+    {
+      "zip": "77022",
+      "issued": "2026/09/11",
+      "type": "Building Pmt",
+      "number": "26071421",
+      "address": "9199 1/2 W HARDY RD",
+      "description": "NEW FENCE 2021 IBC"
+    },
+    {
+      "zip": "77022",
+      "issued": "2026/09/09",
+      "type": "Demolition",
+      "number": "26075893",
+      "address": "7304 BAUMAN RD",
+      "description": "DEMO RES/SEWER DISC"
+    },
+    {
+      "zip": "77022",
+      "issued": "2026/09/08",
+      "type": "Building Pmt",
+      "number": "26078144",
+      "address": "909 YORKSHIRE ST BLD 1",
+      "description": "EMERGENCY HABITABILITY REPAIRS SUB BLD 1 SEE MASTER 22087821"
+    },
+    {
+      "zip": "77022",
+      "issued": "2026/09/11",
+      "type": "Building Pmt",
+      "number": "26079382",
+      "address": "907 E 37TH ST",
+      "description": "PPR REPAIR PER SPEC"
+    },
+    {
+      "zip": "77023",
+      "issued": "2026/09/11",
+      "type": "OCC-BLDG PMT",
+      "number": "25113063",
+      "address": "3235 TELEPHONE RD A",
+      "description": "OCC REPORT/OFFICE/100 SQ FT/2015 CODE"
+    },
+    {
+      "zip": "77023",
+      "issued": "2026/09/08",
+      "type": "Building Pmt",
+      "number": "26078553",
+      "address": "7634 ERATH ST",
+      "description": "PPR RESIDENTIAL REPAIRS"
+    },
+    {
+      "zip": "77024",
+      "issued": "2026/09/09",
+      "type": "Building Pmt",
+      "number": "26000384",
+      "address": "501 W FRIAR TUCK LN",
+      "description": "RESIDENTIAL ADDITION/REMODEL 1-2-5-R3-B 2021 IRC"
+    },
+    {
+      "zip": "77024",
+      "issued": "2026/09/10",
+      "type": "Building Pmt",
+      "number": "26040357",
+      "address": "115 BEECHMONT RD",
+      "description": "S.F. RES W/ATT. GARAGE (1-2-5-R3-B) 21 IRC/21 IECC"
+    },
+    {
+      "zip": "77024",
+      "issued": "2026/09/09",
+      "type": "Building Pmt",
+      "number": "26051199",
+      "address": "9250 SANDRINGHAM DR",
+      "description": "RESIDENTIAL SWIMMING POOL / SPA 2021 IRC / IECC"
+    },
+    {
+      "zip": "77024",
+      "issued": "2026/09/09",
+      "type": "Building Pmt",
+      "number": "26052167",
+      "address": "12110 OLD OAKS DR",
+      "description": "S.F. RES W/DET. GARAGE (1-2-5-R3-B) 21 IRC/21 IECC"
+    },
+    {
+      "zip": "77024",
+      "issued": "2026/09/11",
+      "type": "Building Pmt",
+      "number": "26062702",
+      "address": "12327 TUNBRIDGE LN",
+      "description": "S.F. RES W/ATT. GARAGE (1-2-5-R3-B) 21 IRC/21 IECC"
+    },
+    {
+      "zip": "77024",
+      "issued": "2026/09/08",
+      "type": "Building Pmt",
+      "number": "26067825",
+      "address": "7105 OLD KATY RD",
+      "description": "REPLACE 8' TALL DUMPSTER ENCLOSURE 2021 IBC"
+    },
+    {
+      "zip": "77024",
+      "issued": "2026/09/08",
+      "type": "Building Pmt",
+      "number": "26068467",
+      "address": "11851 DURRETTE DR",
+      "description": "RESIDENTIAL SWIMMING POOL / SPA 2021 IRC / IECC"
+    },
+    {
+      "zip": "77024",
+      "issued": "2026/09/11",
+      "type": "Building Pmt",
+      "number": "26069337",
+      "address": "915 2/3 SILBER RD B",
+      "description": "REM. EXIST. 80' TALL MONOPOLE CELL TOWER 1-1-2-U-B 2021 IBC"
+    },
+    {
+      "zip": "77024",
+      "issued": "2026/09/08",
+      "type": "Building Pmt",
+      "number": "26070274",
+      "address": "7110 OLD KATY RD B-190",
+      "description": "20,700 SF HIGH-PILE RACK WHSE INSTALLATION 1-1-2-S1/B-B-FA-SPK 21"
+    },
+    {
+      "zip": "77024",
+      "issued": "2026/09/08",
+      "type": "Building Pmt",
+      "number": "26077988",
+      "address": "840 WEST SAM HOUSTON NORTH PKY 400",
+      "description": "PPR - OFFICE DEMO NON-LOAD BEARING WALL 1-6-1-B-A 21 IBC"
+    },
+    {
+      "zip": "77024",
+      "issued": "2026/09/08",
+      "type": "Building Pmt",
+      "number": "26078214",
+      "address": "711 HOLY ROOD LN",
+      "description": "MINOR RESIDENTIAL REPAIRS, SINGLE FAMILY RESIDENTIAL"
+    },
+    {
+      "zip": "77025",
+      "issued": "2026/09/11",
+      "type": "Building Pmt",
+      "number": "26019020",
+      "address": "4062 ABERDEEN WAY",
+      "description": "NEW DET./ GARAGE W/UNFINISHED STORAGE ABOVE 21 IRC/IECC."
+    },
+    {
+      "zip": "77025",
+      "issued": "2026/09/08",
+      "type": "Building Pmt",
+      "number": "26064582",
+      "address": "9706 CHATFIELD ST",
+      "description": "S.F. RES W/ATT. GARAGE (1-2-5-R3-B) 21 IRC/21 IECC"
+    },
+    {
+      "zip": "77025",
+      "issued": "2026/09/09",
+      "type": "Demolition",
+      "number": "26070046",
+      "address": "3706 GLEN HAVEN BLVD",
+      "description": "DEMO RES/SEWER DISC"
+    },
+    {
+      "zip": "77025",
+      "issued": "2026/09/09",
+      "type": "Demolition",
+      "number": "26070054",
+      "address": "3647 ABERDEEN WAY",
+      "description": "DEMO RES/SEWER DISC"
+    },
+    {
+      "zip": "77025",
+      "issued": "2026/09/10",
+      "type": "Building Pmt",
+      "number": "26073469",
+      "address": "3510 GRAMERCY ST",
+      "description": "RESIDENTIAL FOUNDATION REPAIR (23 EXTERIOR, 2 INTERIOR)"
+    },
+    {
+      "zip": "77025",
+      "issued": "2026/09/09",
+      "type": "Building Pmt",
+      "number": "26074020",
+      "address": "4054 DUMBARTON ST",
+      "description": "ONE-STOP PARTIAL DEMOLITION, SWIMMING POOL"
+    },
+    {
+      "zip": "77025",
+      "issued": "2026/09/08",
+      "type": "Building Pmt",
+      "number": "26074490",
+      "address": "7171 BUFFALO SPEEDWAY BLD54",
+      "description": "APT. BLDG. INSTALL (24 PERIMETER PUSH PIERS) 1-2-5-R2-B 2021 IBC"
+    },
+    {
+      "zip": "77026",
+      "issued": "2026/09/10",
+      "type": "Building Pmt",
+      "number": "26079217",
+      "address": "3502 CAMPBELL ST BLD 1",
+      "description": "PPR - APARTMENT REPAIRS PER SPEC LIST 1-2-5-R2-B 2021 IBC"
+    },
+    {
+      "zip": "77027",
+      "issued": "2026/09/10",
+      "type": "Building Pmt",
+      "number": "26053962",
+      "address": "4444 WESTHEIMER RD D 120",
+      "description": "(M/2) 2,950 SF SHELL REMODEL FOR RETAIL 1-5-3-M-A 2021 IBC"
+    },
+    {
+      "zip": "77027",
+      "issued": "2026/09/10",
+      "type": "Building Pmt",
+      "number": "26053963",
+      "address": "4444 WESTHEIMER RD D 123",
+      "description": "(2/2) SHELL REMODEL FOR RETAIL1-5-3-M-A 2021 IBC"
+    },
+    {
+      "zip": "77027",
+      "issued": "2026/09/10",
+      "type": "Demolition",
+      "number": "26062579",
+      "address": "3318 MID LN",
+      "description": "DEMO RES/SEWER DISC"
+    },
+    {
+      "zip": "77027",
+      "issued": "2026/09/10",
+      "type": "Building Pmt",
+      "number": "26065553",
+      "address": "3318 MID LN",
+      "description": "S.F. RES W/ATT. GARAGE (1-2-5-R3-B) 21 IRC/21 IECC"
+    },
+    {
+      "zip": "77027",
+      "issued": "2026/09/09",
+      "type": "Building Pmt",
+      "number": "26078590",
+      "address": "2929 WESLAYAN ST 103",
+      "description": "PPR-DEMO OF INTERIOR NON-LOAD BEARING NON-FIRE RATED WALLS 21 IBC"
+    },
+    {
+      "zip": "77028",
+      "issued": "2026/09/09",
+      "type": "Building Pmt",
+      "number": "25065715",
+      "address": "7318 JAY ST A",
+      "description": "RESIDENTIAL GARAGE ADDITION"
+    },
+    {
+      "zip": "77028",
+      "issued": "2026/09/11",
+      "type": "Building Pmt",
+      "number": "26063400",
+      "address": "6955 MESA DR 1-100",
+      "description": "133,071 SQ FT WAREHOUSE BUILDOUT 1-1-2-B/S1/F1-B-SPK-FA 21 IBC"
+    },
+    {
+      "zip": "77030",
+      "issued": "2026/09/10",
+      "type": "Building Pmt",
+      "number": "26070549",
+      "address": "2139 ADDISON RD A",
+      "description": "SF RESIDENTIAL BLOCK & BASE ADJUSTMENT 1-2-5-R3-B 2021 IRC"
+    },
+    {
+      "zip": "77032",
+      "issued": "2026/09/09",
+      "type": "Building Pmt",
+      "number": "22053435",
+      "address": "2450 RANKIN RD",
+      "description": "TREATMENT PLANT EXPANSION W/SITEWORK '15IBC MASTER OF 5"
+    },
+    {
+      "zip": "77032",
+      "issued": "2026/09/09",
+      "type": "Building Pmt",
+      "number": "24111297",
+      "address": "2450 RANKIN RD P",
+      "description": "1,387 SF. BLOWER CNPY W/SITEWORK (4/5) 1-1-2-F1-B '21 IBC"
+    },
+    {
+      "zip": "77033",
+      "issued": "2026/09/10",
+      "type": "Building Pmt",
+      "number": "25110520",
+      "address": "9129 NOEL ST A&B",
+      "description": "DUPLEX RES W/ATT. GARAGE (1-2-5-R3-B) 21 IRC/21 IECC"
+    },
+    {
+      "zip": "77033",
+      "issued": "2026/09/10",
+      "type": "Building Pmt",
+      "number": "25110521",
+      "address": "9123 NOEL ST A&B",
+      "description": "QS2 DUPLEX RES W/ATT. GARAGE (1-2-5-R3-B) 21 IRC/21 IECC"
+    },
+    {
+      "zip": "77033",
+      "issued": "2026/09/10",
+      "type": "Building Pmt",
+      "number": "25110522",
+      "address": "9125 NOEL ST A & B",
+      "description": "DUPLEX RES W/ATT. GARAGE (1-2-5-R3-B) 21 IRC/21 IECC"
+    },
+    {
+      "zip": "77033",
+      "issued": "2026/09/10",
+      "type": "Building Pmt",
+      "number": "25110524",
+      "address": "9127 NOEL ST A&B",
+      "description": "DUPLEX RES W/ATT. GARAGE (1-2-5-R3-B) 21 IRC/21 IECC"
+    },
+    {
+      "zip": "77033",
+      "issued": "2026/09/10",
+      "type": "Building Pmt",
+      "number": "25110525",
+      "address": "9131 NOEL ST A&B",
+      "description": "S.F. RES W/ATT. GARAGE (1-2-5-R3-B) 21 IRC/21 IECC"
+    },
+    {
+      "zip": "77033",
+      "issued": "2026/09/10",
+      "type": "Building Pmt",
+      "number": "26012482",
+      "address": "5417 PEACOCK ST",
+      "description": "S.F. RES W/ATT. GARAGE (1-1-5-R3-B) 21 IRC/21 IECC"
+    },
+    {
+      "zip": "77033",
+      "issued": "2026/09/09",
+      "type": "Building Pmt",
+      "number": "26040165",
+      "address": "5117 MALLOW ST A & B",
+      "description": "DUPLEX RES.-NO GARAGE-(1-2-5-R3-B) 21 IRC/21 IECC (MST OF 3)"
+    },
+    {
+      "zip": "77033",
+      "issued": "2026/09/09",
+      "type": "Building Pmt",
+      "number": "26040166",
+      "address": "5115 MALLOW ST A & B",
+      "description": "DUPLEX RES.-NO GARAGE-(1-2-5-R3-B) 21 IRC/21 IECC (M#26040165)"
+    },
+    {
+      "zip": "77033",
+      "issued": "2026/09/09",
+      "type": "Building Pmt",
+      "number": "26040167",
+      "address": "5113 MALLOW ST A & B",
+      "description": "DUPLEX RES.-NO GARAGE-(1-2-5-R3-B) 21 IRC/21 IECC (M#26040165)"
+    },
+    {
+      "zip": "77033",
+      "issued": "2026/09/08",
+      "type": "Building Pmt",
+      "number": "26067143",
+      "address": "5515 SOUTH LOOP EAST",
+      "description": "SCHOOL EQUIPMENT REMODEL 1-1-2-E-B 2021 IBC"
+    },
+    {
+      "zip": "77034",
+      "issued": "2026/09/10",
+      "type": "Building Pmt",
+      "number": "26079424",
+      "address": "1127 LASKEY ST",
+      "description": "PPR RESIDENITAL REPAIRS"
+    },
+    {
+      "zip": "77035",
+      "issued": "2026/09/10",
+      "type": "Building Pmt",
+      "number": "26070264",
+      "address": "11206 HUGGINS DR",
+      "description": "PPR- RESIDENTIAL REMODEL"
+    },
+    {
+      "zip": "77035",
+      "issued": "2026/09/08",
+      "type": "Building Pmt",
+      "number": "26071624",
+      "address": "4702 WAYCROSS ST",
+      "description": "RESIDENTIAL ADDITION 2021 IRC"
+    },
+    {
+      "zip": "77035",
+      "issued": "2026/09/11",
+      "type": "Building Pmt",
+      "number": "26074303",
+      "address": "11306 ENDICOTT LN",
+      "description": "PPR RESIDENTIAL ADDITION & REMODEL"
+    },
+    {
+      "zip": "77035",
+      "issued": "2026/09/08",
+      "type": "Building Pmt",
+      "number": "26075166",
+      "address": "11205 CLIFFWOOD DR",
+      "description": "PPR RESIDENTIAL REMODEL"
+    },
+    {
+      "zip": "77036",
+      "issued": "2026/09/10",
+      "type": "Building Pmt",
+      "number": "26051584",
+      "address": "9931 HARWIN DR 102",
+      "description": "PPR RETAIL REPAIRS AS PER SPEC LIST 1-2-2-M-B 2021 IBC"
+    },
+    {
+      "zip": "77037",
+      "issued": "2026/09/11",
+      "type": "Building Pmt",
+      "number": "26074602",
+      "address": "118582/3 AIRLINE DR A",
+      "description": "CELL TOWER ANTENNA & EQUIPMENT REMODEL 1-1-2-U-B 2021 IBC"
+    },
+    {
+      "zip": "77041",
+      "issued": "2026/09/11",
+      "type": "Building Pmt",
+      "number": "26079833",
+      "address": "10261 COLONY CT",
+      "description": "PPR RESIDENTIAL REMODEL"
+    },
+    {
+      "zip": "77042",
+      "issued": "2026/09/09",
+      "type": "Building Pmt",
+      "number": "26037308",
+      "address": "10550 WESTHEIMER RD 300",
+      "description": "2,424 SF. RESTAURANT REMODEL 1-1-2-A2-B 100% SPK/FA '21 IBC"
+    },
+    {
+      "zip": "77042",
+      "issued": "2026/09/08",
+      "type": "Building Pmt",
+      "number": "26072413",
+      "address": "2022 WILCREST DR",
+      "description": "HEALTH PLAN REVIEW FOR GHOST KITCHENS FACILITY 2021 IBC"
+    },
+    {
+      "zip": "77042",
+      "issued": "2026/09/08",
+      "type": "Building Pmt",
+      "number": "26078262",
+      "address": "811 BRIARPARK DR",
+      "description": "MINOR RESIDENTIAL REPAIRS, SINGLE FAMILY RESIDENTIAL"
+    },
+    {
+      "zip": "77043",
+      "issued": "2026/09/08",
+      "type": "Building Pmt",
+      "number": "26051369",
+      "address": "1214 WYCLIFFE DR",
+      "description": "S.F. RES W/ATT. GARAGE (1-3-5-R3-B) 21 IRC/21 IECC (M OF 2)"
+    },
+    {
+      "zip": "77043",
+      "issued": "2026/09/08",
+      "type": "Building Pmt",
+      "number": "26051370",
+      "address": "1216 WYCLIFFE DR",
+      "description": "S.F. RES W/ATT. GARAGE (1-3-5-R3-B) 21 IRC/21 IECC"
+    },
+    {
+      "zip": "77043",
+      "issued": "2026/09/10",
+      "type": "Building Pmt",
+      "number": "26054134",
+      "address": "10251 KEMPWOOD DR",
+      "description": "2 NEW EXTERIOR 450 KW NATURAL GAS GENERATORS 1-1-2-M-B 2021 IBC"
+    },
+    {
+      "zip": "77043",
+      "issued": "2026/09/08",
+      "type": "Building Pmt",
+      "number": "26078356",
+      "address": "2910 RIATA LN",
+      "description": "MINOR RESIDENTIAL REPAIRS, SINGLE FAMILY RESIDENTIAL"
+    },
+    {
+      "zip": "77044",
+      "issued": "2026/09/08",
+      "type": "Building Pmt",
+      "number": "26074215",
+      "address": "16923 LAKE ARLINGTON LN",
+      "description": "PPR RESIDENTIAL PATIO COVER ADDITION"
+    },
+    {
+      "zip": "77044",
+      "issued": "2026/09/11",
+      "type": "Building Pmt",
+      "number": "26076555",
+      "address": "13303 LAKE CHESDIN RD",
+      "description": "RESIDENTIAL ENERGY STORAGE SYSTEM ADDITION 2021 IRC"
+    },
+    {
+      "zip": "77045",
+      "issued": "2026/09/10",
+      "type": "Building Pmt",
+      "number": "26035348",
+      "address": "3114 BERAN DR",
+      "description": "D.B/RESIDENTIAL/REPAIR / MAIN STRUCTURE"
+    },
+    {
+      "zip": "77045",
+      "issued": "2026/09/09",
+      "type": "Building Pmt",
+      "number": "26070516",
+      "address": "4018 TIDEWATER DR",
+      "description": "PPR RESIDENTIAL ADDITION"
+    },
+    {
+      "zip": "77045",
+      "issued": "2026/09/08",
+      "type": "Building Pmt",
+      "number": "26076882",
+      "address": "5314 LOTUS ST",
+      "description": "PPR SF RESIDENTIAL REMODEL AND GARAGE CONVERSION"
+    },
+    {
+      "zip": "77048",
+      "issued": "2026/09/11",
+      "type": "Building Pmt",
+      "number": "26061346",
+      "address": "11435 ZENYATTA LN",
+      "description": "S.F. RES. ATT. GAR (REPEAT- N304 H) 21 IRC/21 IECC"
+    },
+    {
+      "zip": "77051",
+      "issued": "2026/09/08",
+      "type": "Building Pmt",
+      "number": "25099346",
+      "address": "8407 WOODWARD ST",
+      "description": "S.F. RES. W/ATT. GARAGE (1-2-5-R3-B) 21 IRC/21 IECC (MST OF 2)"
+    },
+    {
+      "zip": "77051",
+      "issued": "2026/09/08",
+      "type": "Building Pmt",
+      "number": "25099347",
+      "address": "8409 WOODWARD ST",
+      "description": "S.F. RES. W/ATT. GARAGE (1-2-5-R3-B) 21 IRC/21 IECC (M# 25099346)"
+    },
+    {
+      "zip": "77051",
+      "issued": "2026/09/10",
+      "type": "Building Pmt",
+      "number": "26066202",
+      "address": "9144 BRANDON ST A&B",
+      "description": "DUPLEX RES. - NO GARAGE - (1-2-5-R3-B) 21 IRC/21 IECC"
+    },
+    {
+      "zip": "77051",
+      "issued": "2026/09/11",
+      "type": "Building Pmt",
+      "number": "26072536",
+      "address": "2638 MCHENRY LANDING (PVT) LN",
+      "description": "S.F. RES W/ATT. GARAGE (1-2-5-R3-B) 21 IRC/21 IECC"
+    },
+    {
+      "zip": "77051",
+      "issued": "2026/09/11",
+      "type": "Building Pmt",
+      "number": "26079896",
+      "address": "7912 GRANDVIEW ST",
+      "description": "MINOR RESIDENTIAL REPAIRS, SINGLE FAMILY RESIDENTIAL"
+    },
+    {
+      "zip": "77053",
+      "issued": "2026/09/08",
+      "type": "Building Pmt",
+      "number": "26065090",
+      "address": "5762 SANTA CHRISTI DR",
+      "description": "SF RESIDENTIAL SOLAR PANEL ADDITION 1-1-5-R3-B 2021 IRC"
+    },
+    {
+      "zip": "77054",
+      "issued": "2026/09/08",
+      "type": "Building Pmt",
+      "number": "26018579",
+      "address": "7601 FANNIN ST",
+      "description": "BEHAVIORAL HOSPITAL NEW EXTERIOR 600 KW DIESEL GENERATOR 2021 IBC"
+    },
+    {
+      "zip": "77054",
+      "issued": "2026/09/11",
+      "type": "Building Pmt",
+      "number": "26060689",
+      "address": "1333 OLD SPANISH TRL D",
+      "description": "3,000 SF. GYM REMODEL 1-1-2-A3-B 2021 IBC"
+    },
+    {
+      "zip": "77055",
+      "issued": "2026/09/11",
+      "type": "Building Pmt",
+      "number": "26012638",
+      "address": "9900 KATY FWY",
+      "description": "OFFICE RTU REPLACEMENT 1-2-2-B-B 2021 IBC"
+    },
+    {
+      "zip": "77055",
+      "issued": "2026/09/10",
+      "type": "Building Pmt",
+      "number": "26041393",
+      "address": "1425 BLALOCK RD 100",
+      "description": "508 SF CLINIC REMODEL 2021 IBC"
+    },
+    {
+      "zip": "77055",
+      "issued": "2026/09/08",
+      "type": "Building Pmt",
+      "number": "26053514",
+      "address": "1085 GESSNER RD 220",
+      "description": "1,743 SQ FT COFFEE BAR BUILDOUT 1-1-2-B-B-SPK-FA 2021 IBC"
+    },
+    {
+      "zip": "77055",
+      "issued": "2026/09/08",
+      "type": "Building Pmt",
+      "number": "26056677",
+      "address": "1303 CUNNINGHAM TRACE (PVT) DR",
+      "description": "QS2 S.F. RES W/ATT. GARAGE (1-3-5-R3-B) 21 IRC/21 IECC"
+    },
+    {
+      "zip": "77055",
+      "issued": "2026/09/10",
+      "type": "Building Pmt",
+      "number": "26074067",
+      "address": "1526 LYNNVIEW DR",
+      "description": "QS2 S.F. RES W/ATT. GARAGE (1-2-5-R3-B) 21 IRC/21 IECC"
+    },
+    {
+      "zip": "77055",
+      "issued": "2026/09/10",
+      "type": "Building Pmt",
+      "number": "26075281",
+      "address": "7809 BRYKERWOODS DR",
+      "description": "RESIDENTIAL REPAIR PER SPEC LIST"
+    },
+    {
+      "zip": "77055",
+      "issued": "2026/09/08",
+      "type": "Building Pmt",
+      "number": "26078493",
+      "address": "2120 PECH RD BLD A",
+      "description": "PPR REPAIR APARTMENT BUILDING STAIRS 1-2-5-R2-B 2021 IBC"
+    },
+    {
+      "zip": "77055",
+      "issued": "2026/09/08",
+      "type": "Building Pmt",
+      "number": "26078505",
+      "address": "2120 PECH RD BLD B",
+      "description": "PPR REPAIR APARTMENT BUILDING STAIRS 1-2-5-R2-B 2021 IBC"
+    },
+    {
+      "zip": "77055",
+      "issued": "2026/09/08",
+      "type": "Building Pmt",
+      "number": "26078516",
+      "address": "2120 PECH RD BLD C",
+      "description": "PPR REPAIR APARTMENT BUILDING STAIRS 1-2-5-R2-B 2021 IBC"
+    },
+    {
+      "zip": "77055",
+      "issued": "2026/09/08",
+      "type": "Building Pmt",
+      "number": "26078521",
+      "address": "2120 PECH RD BLD D",
+      "description": "PPR REPAIR APARTMENT BUILDING STAIRS 1-2-5-R2-B 2021 IBC"
+    },
+    {
+      "zip": "77055",
+      "issued": "2026/09/11",
+      "type": "Building Pmt",
+      "number": "26078727",
+      "address": "6534 WESTVIEW DR",
+      "description": "PPR NEW RESIDENTIAL POOL"
+    },
+    {
+      "zip": "77055",
+      "issued": "2026/09/11",
+      "type": "Building Pmt",
+      "number": "26078756",
+      "address": "9718 LARSTON ST",
+      "description": "PPR RESIDENTIAL SWIMMING POOL"
+    },
+    {
+      "zip": "77056",
+      "issued": "2026/09/10",
+      "type": "Building Pmt",
+      "number": "26048521",
+      "address": "5519 HIDALGO ST",
+      "description": "S.F. RES W/ATT. GARAGE (1-3-5-R3-B) 21 IRC/21 IECC"
+    },
+    {
+      "zip": "77056",
+      "issued": "2026/09/08",
+      "type": "Building Pmt",
+      "number": "26060490",
+      "address": "5151 SAN FELIPE ST 1950",
+      "description": "8,837 SF HI-RISE OFFICE REMODEL 1-25-1-B-A 2021 IBC"
+    },
+    {
+      "zip": "77056",
+      "issued": "2026/09/11",
+      "type": "Building Pmt",
+      "number": "26072983",
+      "address": "1980 POST OAK BLVD FL 24",
+      "description": "HI RISE 340 SF RESTROOM REMODEL 1-25-1-B-A-100%SPK-FA 2021 IBC"
+    },
+    {
+      "zip": "77056",
+      "issued": "2026/09/10",
+      "type": "Building Pmt",
+      "number": "26077807",
+      "address": "5444 WESTHEIMER RD 110",
+      "description": "ONE-STOP REMODEL-DEMO, RETAIL"
+    },
+    {
+      "zip": "77056",
+      "issued": "2026/09/10",
+      "type": "Building Pmt",
+      "number": "26078426",
+      "address": "5555 SAN FELIPE ST FL 30",
+      "description": "DEMO OF INTERIOR NON-LOAD BEARING NON-FIRE RATED WALLS 2021 IBC"
+    },
+    {
+      "zip": "77056",
+      "issued": "2026/09/10",
+      "type": "Building Pmt",
+      "number": "26078427",
+      "address": "5555 SAN FELIPE ST FL 31",
+      "description": "DEMO OF INTERIOR NON-LOAD BEARING NON-FIRE RATED WALLS 2021 IBC"
+    },
+    {
+      "zip": "77057",
+      "issued": "2026/09/08",
+      "type": "Building Pmt",
+      "number": "26008358",
+      "address": "5710 INDIAN CIR",
+      "description": "RESIDENTIAL ADDITION & REMODEL 2021 IRC/IECC"
+    },
+    {
+      "zip": "77057",
+      "issued": "2026/09/11",
+      "type": "Building Pmt",
+      "number": "26034133",
+      "address": "6414 SAN FELIPE ST A",
+      "description": "4511 RESTAURANT REMODEL 1-1-2-A2-B-B 2021 IBC SPK"
+    },
+    {
+      "zip": "77057",
+      "issued": "2026/09/09",
+      "type": "Building Pmt",
+      "number": "26063121",
+      "address": "1111 BERING DR 606",
+      "description": "HIGH-RISE CONDO UNIT INTERIOR REMODEL 1-14-1-R2-A 2021 IBC"
+    },
+    {
+      "zip": "77057",
+      "issued": "2026/09/10",
+      "type": "Building Pmt",
+      "number": "26076522",
+      "address": "2129 WINROCK BLVD",
+      "description": "RESIDENTIAL REPAIR PER SPEC LIST 2021 IRC"
+    },
+    {
+      "zip": "77057",
+      "issued": "2026/09/09",
+      "type": "Building Pmt",
+      "number": "26078844",
+      "address": "2010 AUGUSTA DR",
+      "description": "MINOR RESIDENTIAL REPAIRS, SINGLE FAMILY RESIDENTIAL"
+    },
+    {
+      "zip": "77057",
+      "issued": "2026/09/11",
+      "type": "Building Pmt",
+      "number": "26079797",
+      "address": "1100 AUGUSTA DR 35",
+      "description": "MINOR RESIDENTIAL REPAIRS, SINGLE FAMILY RESIDENTIAL"
+    },
+    {
+      "zip": "77058",
+      "issued": "2026/09/10",
+      "type": "Building Pmt",
+      "number": "26064432",
+      "address": "1045 GEMINI ST FL 1",
+      "description": "3, 066 SQ FT BATHROOM/LOBBY/CORRIDOR REM. 1-2-2-B-B-SPK-FA 21 IBC"
+    },
+    {
+      "zip": "77059",
+      "issued": "2026/09/08",
+      "type": "Building Pmt",
+      "number": "26059686",
+      "address": "5715 GREENWOOD COLONY CT",
+      "description": "RESIDENTIAL 171 SQ FT PERGOLA ADDITION 1-1-5-R3-B 2021 IRC"
+    },
+    {
+      "zip": "77059",
+      "issued": "2026/09/10",
+      "type": "Building Pmt",
+      "number": "26069250",
+      "address": "3914 S DAWN CYPRESS CT",
+      "description": "NEW RESIDENTIAL SOLAR PANELS 2021 IRC"
+    },
+    {
+      "zip": "77059",
+      "issued": "2026/09/09",
+      "type": "Building Pmt",
+      "number": "26078871",
+      "address": "13906 MARBLEDALE CT",
+      "description": "MINOR RESIDENTIAL REPAIRS, SINGLE FAMILY RESIDENTIAL"
+    },
+    {
+      "zip": "77059",
+      "issued": "2026/09/11",
+      "type": "Building Pmt",
+      "number": "26079614",
+      "address": "5950 ARCOLA MEADOW CT",
+      "description": "PPR NEW RESIDENTIAL SWIMMING POOL/SPA 2021 IRC/ 2021 IECC."
+    },
+    {
+      "zip": "77059",
+      "issued": "2026/09/11",
+      "type": "Building Pmt",
+      "number": "26079634",
+      "address": "13615 DOVETAIL GLEN CT",
+      "description": "PPR RESIDENTIAL POOL"
+    },
+    {
+      "zip": "77060",
+      "issued": "2026/09/09",
+      "type": "Building Pmt",
+      "number": "26079060",
+      "address": "15115 KIRKFIELD LN",
+      "description": "PPR RESIDENTIAL REPAIR"
+    },
+    {
+      "zip": "77061",
+      "issued": "2026/09/09",
+      "type": "Building Pmt",
+      "number": "26023393",
+      "address": "8234 BROADWAY ST",
+      "description": "12,044 SF. CONVERT TO SHELL 1-1-2-M-B 2021 IBC (M/3)"
+    },
+    {
+      "zip": "77061",
+      "issued": "2026/09/09",
+      "type": "Building Pmt",
+      "number": "26028444",
+      "address": "8234 BROADWAY ST CNPY",
+      "description": "4,160 SF. NEW FUEL CANOPY W/TANKS 1-1-2-M-B (3/3) 2021 IBC"
+    },
+    {
+      "zip": "77061",
+      "issued": "2026/09/09",
+      "type": "Building Pmt",
+      "number": "26041648",
+      "address": "8234 BROADWAY ST A",
+      "description": "5,425 SF. C-STORE BUILDOUT 1-1-2-M-B (2/3) 2021 IBC"
+    },
+    {
+      "zip": "77061",
+      "issued": "2026/09/09",
+      "type": "Building Pmt",
+      "number": "26060008",
+      "address": "6858 EVANS ST",
+      "description": "QS2 S.F. RES W/ATT. GARAGE (1-1-5-R3-B) 21 IRC/21 IECC"
+    },
+    {
+      "zip": "77061",
+      "issued": "2026/09/08",
+      "type": "Building Pmt",
+      "number": "26068294",
+      "address": "8035 GLENFOREST CT",
+      "description": "SF RESIDENTIAL INTERIOR REMODEL 1-1-5-R3-B 22021 IRC"
+    },
+    {
+      "zip": "77061",
+      "issued": "2026/09/11",
+      "type": "Building Pmt",
+      "number": "26079687",
+      "address": "8526 WYNMEADOW DR",
+      "description": "MINOR RESIDENTIAL REPAIRS, SINGLE FAMILY RESIDENTIAL"
+    },
+    {
+      "zip": "77062",
+      "issued": "2026/09/09",
+      "type": "Building Pmt",
+      "number": "26069189",
+      "address": "2107 PINELOCH DR",
+      "description": "RESIDENTIAL ADDITION 2021 IRC"
+    },
+    {
+      "zip": "77062",
+      "issued": "2026/09/08",
+      "type": "Building Pmt",
+      "number": "26070964",
+      "address": "16055 SPACE CENTER BLVD 500",
+      "description": "20,476 SQ. FT. HI-RISE OFFICE REMODEL 1-7-1-B-B 21 IBC SPK/FA"
+    },
+    {
+      "zip": "77062",
+      "issued": "2026/09/10",
+      "type": "Building Pmt",
+      "number": "26075302",
+      "address": "14622 LOFTY MOUNTAIN TRL",
+      "description": "RESIDENTIAL FOUNDATION REPAIR (14 EXTERIOR)"
+    },
+    {
+      "zip": "77062",
+      "issued": "2026/09/08",
+      "type": "Building Pmt",
+      "number": "26078382",
+      "address": "15603 LAKE LODGE DR",
+      "description": "MINOR RESIDENTIAL REPAIRS, SINGLE FAMILY RESIDENTIAL"
+    },
+    {
+      "zip": "77062",
+      "issued": "2026/09/09",
+      "type": "Building Pmt",
+      "number": "26078877",
+      "address": "14534 OAK CHASE DR",
+      "description": "MINOR RESIDENTIAL REPAIRS, SINGLE FAMILY RESIDENTIAL"
+    },
+    {
+      "zip": "77063",
+      "issued": "2026/09/11",
+      "type": "Building Pmt",
+      "number": "26079589",
+      "address": "2100 TANGLEWILDE ST 275",
+      "description": "MINOR RESIDENTIAL REPAIRS, DUPLEX"
+    },
+    {
+      "zip": "77070",
+      "issued": "2026/09/10",
+      "type": "Building Pmt",
+      "number": "26077018",
+      "address": "7520 W F M 1960",
+      "description": "DEMO OF INTERIOR NON-LOAD BEARING NON-FIRE RATED WALLS 2021 IBC"
+    },
+    {
+      "zip": "77074",
+      "issued": "2026/09/08",
+      "type": "Building Pmt",
+      "number": "26067289",
+      "address": "6565 DE MOSS DR",
+      "description": "ADD 3 COMART SINK IN EXIT SCHOOL SERVERY 1-2-2-E-B 2021 IBC SP"
+    },
+    {
+      "zip": "77075",
+      "issued": "2026/09/11",
+      "type": "Building Pmt",
+      "number": "26058840",
+      "address": "9511 YEARLING BRANCH DR",
+      "description": "RESIDENTIAL 248 SQ FT ADU ADDITION 1-2-5-R3-B 2021 IRC"
+    },
+    {
+      "zip": "77075",
+      "issued": "2026/09/11",
+      "type": "Building Pmt",
+      "number": "26073303",
+      "address": "8116 SAYLYNN LN",
+      "description": "QS2 S.F. RES W/ATT. GARAGE (1-1-5-R3-B) 21 IRC/21 IECC"
+    },
+    {
+      "zip": "77075",
+      "issued": "2026/09/10",
+      "type": "Building Pmt",
+      "number": "26075826",
+      "address": "7308 MADISON COMMONS LN",
+      "description": "SF RESIDENTIAL SOLAR PANEL ADDITION 1-2-5-R3-B 2021 IRC"
+    },
+    {
+      "zip": "77075",
+      "issued": "2026/09/11",
+      "type": "Building Pmt",
+      "number": "26076867",
+      "address": "8438 GULF TREE LN",
+      "description": "RESIDENTIAL FOUNDATION REPAIR (15 EXTERIOR)"
+    },
+    {
+      "zip": "77076",
+      "issued": "2026/09/13",
+      "type": "Building Pmt",
+      "number": "26039758",
+      "address": "428 ROSAMOND ST",
+      "description": "S.F. RES W/ATT. GARAGE (1-1-5-R3-B) 21 IRC/21 IECC"
+    },
+    {
+      "zip": "77077",
+      "issued": "2026/09/10",
+      "type": "Building Pmt",
+      "number": "26070517",
+      "address": "11642 SOUTHLAKE DR",
+      "description": "RESIDENTIAL FOUNDATION REPAIR (3 EXTERIOR AND 3 INTERIOR PILES)"
+    },
+    {
+      "zip": "77077",
+      "issued": "2026/09/10",
+      "type": "Building Pmt",
+      "number": "26076108",
+      "address": "1622 ASPEN GROVE DR",
+      "description": "RESIDENTIAL FOUNDATION REPAIR (10 EXTERIOR AND 7 INTERIOR PILES)"
+    },
+    {
+      "zip": "77077",
+      "issued": "2026/09/09",
+      "type": "Building Pmt",
+      "number": "26078820",
+      "address": "1526 ASHFORD HOLLOW LN",
+      "description": "PPR RESIDENTIAL FOUNDATION REPAIRS"
+    },
+    {
+      "zip": "77077",
+      "issued": "2026/09/11",
+      "type": "Building Pmt",
+      "number": "26079932",
+      "address": "12322 WEDGEHILL LN",
+      "description": "MINOR RESIDENTIAL REPAIRS, SINGLE FAMILY RESIDENTIAL"
+    },
+    {
+      "zip": "77078",
+      "issued": "2026/09/11",
+      "type": "Building Pmt",
+      "number": "26057052",
+      "address": "9642 SCARLET ROBIN LN",
+      "description": "S.F. RES W/ATT. GARAGE (1-1-5-R3-B) 21 IRC/21 IECC"
+    },
+    {
+      "zip": "77078",
+      "issued": "2026/09/10",
+      "type": "Building Pmt",
+      "number": "26057170",
+      "address": "9023 ROBINS EGG TRL",
+      "description": "S.F. RES W/ATT. GARAGE (1-1-5-R3-B) 21 IRC/21 IECC"
+    },
+    {
+      "zip": "77078",
+      "issued": "2026/09/08",
+      "type": "Building Pmt",
+      "number": "26078515",
+      "address": "9225 NYSSA ST",
+      "description": "PPR RESIDENTIAL REPAIR"
+    },
+    {
+      "zip": "77079",
+      "issued": "2026/09/08",
+      "type": "Building Pmt",
+      "number": "26064141",
+      "address": "14075 MEMORIAL DR",
+      "description": "1,100 SF RESTAURANT EQUIPMENT REMODEL FOR OCC RPT# 26069982 21 IBC"
+    },
+    {
+      "zip": "77079",
+      "issued": "2026/09/10",
+      "type": "Building Pmt",
+      "number": "26068226",
+      "address": "13119 HERMITAGE LN",
+      "description": "QS2 S.F. RES W/ATT. GARAGE (1-2-5-R3-B) 21 IRC/21 IECC"
+    },
+    {
+      "zip": "77079",
+      "issued": "2026/09/10",
+      "type": "Building Pmt",
+      "number": "26074184",
+      "address": "14771 CINDYWOOD DR",
+      "description": "RESIDENTIAL ADDITION 2021 IRC/2021 IECC."
+    },
+    {
+      "zip": "77079",
+      "issued": "2026/09/09",
+      "type": "Building Pmt",
+      "number": "26074408",
+      "address": "11720 KATY FWY 200",
+      "description": "REM. 3,452 S/F HI-RISE OFFICE 1-17-1-B-A 100% SPRK / FA 2021 IBC"
+    },
+    {
+      "zip": "77079",
+      "issued": "2026/09/10",
+      "type": "Building Pmt",
+      "number": "26074421",
+      "address": "13514 KIMBERLEY LN",
+      "description": "RESIDENTIAL PATIO ADDITION 2021 IRC"
+    },
+    {
+      "zip": "77079",
+      "issued": "2026/09/09",
+      "type": "Building Pmt",
+      "number": "26078894",
+      "address": "14178 MISTY MEADOW LN",
+      "description": "MINOR RESIDENTIAL REPAIRS, SINGLE FAMILY RESIDENTIAL"
+    },
+    {
+      "zip": "77079",
+      "issued": "2026/09/11",
+      "type": "Building Pmt",
+      "number": "26079373",
+      "address": "650 CHERRYBARK LN",
+      "description": "PPR RESIDENTIAL POOL"
+    },
+    {
+      "zip": "77080",
+      "issued": "2026/09/11",
+      "type": "Building Pmt",
+      "number": "26052662",
+      "address": "2103 BAUER DR A",
+      "description": "M: S.F. RES W/ATT. GARAGE (1-3-5-R3-B) 21 IRC/21 IECC (MST OF 11)"
+    },
+    {
+      "zip": "77080",
+      "issued": "2026/09/11",
+      "type": "Building Pmt",
+      "number": "26052663",
+      "address": "2103 BAUER DR B",
+      "description": "S.F. RES W/ATT. GARAGE (1-3-5-R3-B) 21 IRC/21 IECC (M# 26052662)"
+    },
+    {
+      "zip": "77080",
+      "issued": "2026/09/11",
+      "type": "Building Pmt",
+      "number": "26052664",
+      "address": "2103 BAUER DR C",
+      "description": "S.F. RES W/ATT. GARAGE (1-3-5-R3-B) 21 IRC/21 IECC (M# 26052662)"
+    },
+    {
+      "zip": "77080",
+      "issued": "2026/09/11",
+      "type": "Building Pmt",
+      "number": "26052665",
+      "address": "2103 BAUER DR D",
+      "description": "S.F. RES W/ATT. GARAGE (1-3-5-R3-B) 21 IRC/21 IECC (M# 26052662)"
+    },
+    {
+      "zip": "77080",
+      "issued": "2026/09/11",
+      "type": "Building Pmt",
+      "number": "26052666",
+      "address": "2103 BAUER DR E",
+      "description": "S.F. RES W/ATT. GARAGE (1-3-5-R3-B) 21 IRC/21 IECC (M# 26052662)"
+    },
+    {
+      "zip": "77080",
+      "issued": "2026/09/11",
+      "type": "Building Pmt",
+      "number": "26052667",
+      "address": "2103 BAUER DR F",
+      "description": "S.F. RES W/ATT. GARAGE (1-3-5-R3-B) 21 IRC/21 IECC (M# 26052662)"
+    },
+    {
+      "zip": "77080",
+      "issued": "2026/09/11",
+      "type": "Building Pmt",
+      "number": "26052668",
+      "address": "2107 BAUER DR A",
+      "description": "S.F. RES W/ATT. GARAGE (1-3-5-R3-B) 21 IRC/21 IECC (M# 26052662)"
+    },
+    {
+      "zip": "77080",
+      "issued": "2026/09/11",
+      "type": "Building Pmt",
+      "number": "26052669",
+      "address": "2107 BAUER DR B",
+      "description": "S.F. RES W/ATT. GARAGE (1-3-5-R3-B) 21 IRC/21 IECC (M# 26052662)"
+    },
+    {
+      "zip": "77080",
+      "issued": "2026/09/11",
+      "type": "Building Pmt",
+      "number": "26052670",
+      "address": "2107 BAUER DR C",
+      "description": "S.F. RES W/ATT. GARAGE (1-3-5-R3-B) 21 IRC/21 IECC (M# 26052662)"
+    },
+    {
+      "zip": "77080",
+      "issued": "2026/09/11",
+      "type": "Building Pmt",
+      "number": "26052671",
+      "address": "2107 BAUER DR D",
+      "description": "S.F. RES W/ATT. GARAGE (1-3-5-R3-B) 21 IRC/21 IECC (M# 26052662)"
+    },
+    {
+      "zip": "77080",
+      "issued": "2026/09/11",
+      "type": "Building Pmt",
+      "number": "26052672",
+      "address": "2107 BAUER DR E",
+      "description": "S.F. RES W/ATT. GARAGE (1-3-5-R3-B) 21 IRC/21 IECC (M# 26052662)"
+    },
+    {
+      "zip": "77080",
+      "issued": "2026/09/11",
+      "type": "Building Pmt",
+      "number": "26057509",
+      "address": "2209 HOSKINS DR C",
+      "description": "S.F. RES W/ATT. GARAGE (1-2-5-R3-B) 21 IRC/21 IECC (MST OF 12)"
+    },
+    {
+      "zip": "77080",
+      "issued": "2026/09/11",
+      "type": "Building Pmt",
+      "number": "26057510",
+      "address": "2211 HOSKINS DR D",
+      "description": "S.F. RES W/ATT. GARAGE (1-2-5-R3-B) 21 IRC/21 IECC (M# 26057509)"
+    },
+    {
+      "zip": "77080",
+      "issued": "2026/09/11",
+      "type": "Building Pmt",
+      "number": "26057511",
+      "address": "2211 HOSKINS DR C",
+      "description": "S.F. RES W/ATT. GARAGE (1-2-5-R3-B) 21 IRC/21 IECC (M# 26057509)"
+    },
+    {
+      "zip": "77080",
+      "issued": "2026/09/11",
+      "type": "Building Pmt",
+      "number": "26057512",
+      "address": "2211 HOSKINS DR B",
+      "description": "S.F. RES W/ATT. GARAGE (1-2-5-R3-B) 21 IRC/21 IECC (M# 26057509)"
+    },
+    {
+      "zip": "77080",
+      "issued": "2026/09/11",
+      "type": "Building Pmt",
+      "number": "26057513",
+      "address": "2211 HOSKINS DR A",
+      "description": "S.F. RES W/ATT. GARAGE (1-2-5-R3-B) 21 IRC/21 IECC (M# 26057509)"
+    },
+    {
+      "zip": "77080",
+      "issued": "2026/09/11",
+      "type": "Building Pmt",
+      "number": "26057514",
+      "address": "2209 HOSKINS DR D",
+      "description": "S.F. RES W/ATT. GARAGE (1-2-5-R3-B) 21 IRC/21 IECC (M# 26057509)"
+    },
+    {
+      "zip": "77080",
+      "issued": "2026/09/11",
+      "type": "Building Pmt",
+      "number": "26057515",
+      "address": "2209 HOSKINS DR B",
+      "description": "S.F. RES W/ATT. GARAGE (1-2-5-R3-B) 21 IRC/21 IECC (M# 26057509)"
+    },
+    {
+      "zip": "77080",
+      "issued": "2026/09/11",
+      "type": "Building Pmt",
+      "number": "26057516",
+      "address": "2209 HOSKINS DR A",
+      "description": "S.F. RES W/ATT. GARAGE (1-2-5-R3-B) 21 IRC/21 IECC (M# 26057509)"
+    },
+    {
+      "zip": "77080",
+      "issued": "2026/09/11",
+      "type": "Building Pmt",
+      "number": "26057517",
+      "address": "2207 HOSKINS DR D",
+      "description": "S.F. RES W/ATT. GARAGE (1-2-5-R3-B) 21 IRC/21 IECC (M# 26057509)"
+    },
+    {
+      "zip": "77080",
+      "issued": "2026/09/11",
+      "type": "Building Pmt",
+      "number": "26057518",
+      "address": "2207 HOSKINS DR C",
+      "description": "S.F. RES W/ATT. GARAGE (1-2-5-R3-B) 21 IRC/21 IECC (M# 26057509)"
+    },
+    {
+      "zip": "77080",
+      "issued": "2026/09/11",
+      "type": "Building Pmt",
+      "number": "26057519",
+      "address": "2207 HOSKINS DR B",
+      "description": "S.F. RES W/ATT. GARAGE (1-2-5-R3-B) 21 IRC/21 IECC (M# 26057509)"
+    },
+    {
+      "zip": "77080",
+      "issued": "2026/09/11",
+      "type": "Building Pmt",
+      "number": "26057520",
+      "address": "2207 HOSKINS DR A",
+      "description": "S.F. RES W/ATT. GARAGE (1-2-5-R3-B) 21 IRC/21 IECC (M# 26057509)"
+    },
+    {
+      "zip": "77080",
+      "issued": "2026/09/10",
+      "type": "Building Pmt",
+      "number": "26074776",
+      "address": "2322 EAGLEROCK DR",
+      "description": "RESIDENTIAL FOUNDATION REPAIR (33 EXTERIOR AND 12 INTERIOR PILES)"
+    },
+    {
+      "zip": "77080",
+      "issued": "2026/09/10",
+      "type": "Building Pmt",
+      "number": "26076057",
+      "address": "2503 PARANA DR",
+      "description": "RESIDENTIAL NEW SOLAR PANEL 2021 IRC."
+    },
+    {
+      "zip": "77080",
+      "issued": "2026/09/13",
+      "type": "Building Pmt",
+      "number": "26077785",
+      "address": "9911 VOGUE LN",
+      "description": "RESIDENTIAL FOUNDATION REPAIR (10 EXTERIOR PILES) 2021 IRC"
+    },
+    {
+      "zip": "77081",
+      "issued": "2026/09/11",
+      "type": "Building Pmt",
+      "number": "23073061",
+      "address": "5704 BELLAIRE BLVD",
+      "description": "HEALTH REVIEW FOR OCC REPT# 23071129 '15IBC"
+    },
+    {
+      "zip": "77081",
+      "issued": "2026/09/08",
+      "type": "Building Pmt",
+      "number": "26065378",
+      "address": "5835 HIGH STAR DR",
+      "description": "NEW RESIDENTIAL SOLAR PANELS 2021 IRC"
+    },
+    {
+      "zip": "77082",
+      "issued": "2026/09/11",
+      "type": "Building Pmt",
+      "number": "26023378",
+      "address": "11424 RICHMOND AVE",
+      "description": "65,718 SQ.FT. ASSIST. LIVING APTMNT ATTIC RMDL 1-3-2-I2-A 2021 IBC"
+    },
+    {
+      "zip": "77082",
+      "issued": "2026/09/12",
+      "type": "Building Pmt",
+      "number": "26068052",
+      "address": "2661 S HIGHWAY 6",
+      "description": "EXTERIOR FACADE REMODEL, RETAIL 1-1-5-M-B 2021 IBC"
+    },
+    {
+      "zip": "77082",
+      "issued": "2026/09/11",
+      "type": "Building Pmt",
+      "number": "26068053",
+      "address": "14409 PARKHOLLOW DR",
+      "description": "EXTERIOR FACADE REMODEL RETAIL 1-1-2-M-B 2021 IBC"
+    },
+    {
+      "zip": "77084",
+      "issued": "2026/09/08",
+      "type": "Building Pmt",
+      "number": "26054080",
+      "address": "15115 PARK ROW DR 300",
+      "description": "26,280SF OFFICE REMODEL 1-3-2-B-B '21 IBC NFPA13/FA"
+    },
+    {
+      "zip": "77087",
+      "issued": "2026/09/10",
+      "type": "Building Pmt",
+      "number": "26079173",
+      "address": "6314 SCHEVERS ST",
+      "description": "MINOR RESIDENTIAL REPAIRS, SINGLE FAMILY RESIDENTIAL"
+    },
+    {
+      "zip": "77088",
+      "issued": "2026/09/08",
+      "type": "Building Pmt",
+      "number": "26052058",
+      "address": "2933 BLUE SKY ST",
+      "description": "S.F. RES W/ATT. GARAGE (1-2-5-R3-B) 21 IRC/21 IECC"
+    },
+    {
+      "zip": "77088",
+      "issued": "2026/09/08",
+      "type": "Building Pmt",
+      "number": "26052059",
+      "address": "2935 BLUE SKY ST",
+      "description": "S.F. RES W/ATT. GARAGE (1-2-5-R3-B) 21 IRC/21 IECC"
+    },
+    {
+      "zip": "77088",
+      "issued": "2026/09/10",
+      "type": "Building Pmt",
+      "number": "26075580",
+      "address": "3006 MCCRAREY DR",
+      "description": "ONE-STOP ESS, SINGLE FAMILY RESIDENTIAL"
+    },
+    {
+      "zip": "77088",
+      "issued": "2026/09/10",
+      "type": "Building Pmt",
+      "number": "26079238",
+      "address": "845 ENTERPRISE ST",
+      "description": "PPR RES REPAIR/ BLOCK & BASE FOUNDATION REPAIR"
+    },
+    {
+      "zip": "77089",
+      "issued": "2026/09/11",
+      "type": "Building Pmt",
+      "number": "26022151",
+      "address": "11600 HUGHES RD",
+      "description": "22,538 SF CHURCH ANNEX RMDL 1-1-2-A3/S2-B-'21 IBC SPK/FA"
+    },
+    {
+      "zip": "77091",
+      "issued": "2026/09/08",
+      "type": "Building Pmt",
+      "number": "24106590",
+      "address": "817 ELKHART ST A",
+      "description": "S.F. RES. ATT. GAR (REPEAT- ER- A) 21 IRC/21 IECC"
+    },
+    {
+      "zip": "77091",
+      "issued": "2026/09/08",
+      "type": "Building Pmt",
+      "number": "24106592",
+      "address": "817 ELKHART ST B",
+      "description": "S.F. RES. ATT. GAR (REPEAT L- ER- B) 21 IRC/21 IECC"
+    },
+    {
+      "zip": "77091",
+      "issued": "2026/09/08",
+      "type": "Building Pmt",
+      "number": "24106594",
+      "address": "817 ELKHART ST C",
+      "description": "S.F. RES. ATT. GAR (REPEAT- ER- A) 21 IRC/21 IECC"
+    },
+    {
+      "zip": "77091",
+      "issued": "2026/09/08",
+      "type": "Building Pmt",
+      "number": "24106596",
+      "address": "819 ELKHART ST D",
+      "description": "S.F. RES. ATT. GAR (REPEAT R - ER- B) 21 IRC/21 IECC"
+    },
+    {
+      "zip": "77091",
+      "issued": "2026/09/08",
+      "type": "Building Pmt",
+      "number": "24106601",
+      "address": "819 ELKHART ST E",
+      "description": "S.F. RES. ATT. GAR (REPEAT R - ER - A) 21 IRC/21 IECC"
+    },
+    {
+      "zip": "77091",
+      "issued": "2026/09/08",
+      "type": "Building Pmt",
+      "number": "24106605",
+      "address": "819 ELKHART ST F",
+      "description": "S.F. RES. ATT. GAR (REPEAT R - ER- B) 21 IRC/21 IECC"
+    },
+    {
+      "zip": "77091",
+      "issued": "2026/09/11",
+      "type": "Building Pmt",
+      "number": "26048195",
+      "address": "6511 BAYOU VIEW DR",
+      "description": "S.F. RES W/ATT. GARAGE (1-2-5-R3-B) 21 IRC/21 IECC"
+    },
+    {
+      "zip": "77091",
+      "issued": "2026/09/11",
+      "type": "Building Pmt",
+      "number": "26048196",
+      "address": "6509 BAYOU VIEW DR",
+      "description": "S.F. RES W/ATT. GARAGE (1-2-5-R3-B) 21 IRC/21 IECC"
+    },
+    {
+      "zip": "77091",
+      "issued": "2026/09/10",
+      "type": "Building Pmt",
+      "number": "26048197",
+      "address": "6513 BAYOU VIEW DR",
+      "description": "S.F. RES W/ATT. GARAGE (1-2-5-R3-B) 21 IRC/21 IECC"
+    },
+    {
+      "zip": "77091",
+      "issued": "2026/09/11",
+      "type": "Building Pmt",
+      "number": "26056531",
+      "address": "834 GREEN MEADOW LN A & B",
+      "description": "DUPLEX RES. - NO GARAGE - (1-2-5-R3-B) 21 IRC/21 IECC"
+    },
+    {
+      "zip": "77091",
+      "issued": "2026/09/10",
+      "type": "Building Pmt",
+      "number": "26056536",
+      "address": "5201 SUE MARIE LN",
+      "description": "RESIDENTIAL SWIMMING POOL / SPA 2021 IRC / IECC"
+    },
+    {
+      "zip": "77091",
+      "issued": "2026/09/10",
+      "type": "Demolition",
+      "number": "26077318",
+      "address": "1015 MANSFIELD ST",
+      "description": "RES DEMO/SEWER DISC"
+    },
+    {
+      "zip": "77091",
+      "issued": "2026/09/11",
+      "type": "Demolition",
+      "number": "26078180",
+      "address": "2630 CARMEL ST",
+      "description": "DEMO RES/SEWER DISC"
+    },
+    {
+      "zip": "77092",
+      "issued": "2026/09/08",
+      "type": "Building Pmt",
+      "number": "26007038",
+      "address": "4550 CHRYSTELL LN",
+      "description": "RESIDENTIAL ADDITION 2021 IRC"
+    },
+    {
+      "zip": "77092",
+      "issued": "2026/09/09",
+      "type": "Building Pmt",
+      "number": "26039355",
+      "address": "11011 NORTHWEST FWY",
+      "description": "5,126 SF. RESTAURANT REMODEL 1-1-5-A2-B 2021 IBC"
+    },
+    {
+      "zip": "77092",
+      "issued": "2026/09/11",
+      "type": "Building Pmt",
+      "number": "26041018",
+      "address": "2900 NORTH LOOP WEST 180",
+      "description": "CONV. 167 S/Q OF OFFICE LEASE TO RESTROOMS 1-16-1-B-A SP/FA 21 IBC"
+    },
+    {
+      "zip": "77092",
+      "issued": "2026/09/08",
+      "type": "Building Pmt",
+      "number": "26055758",
+      "address": "2950 NORTH LOOP WEST FL 9",
+      "description": "964SF HI-RISE 9TH FLOOR CORE REMODEL 1-12-1-B-A 2021 IBC SPK/FA"
+    },
+    {
+      "zip": "77092",
+      "issued": "2026/09/08",
+      "type": "Building Pmt",
+      "number": "26055760",
+      "address": "2950 NORTH LOOP WEST 950",
+      "description": "1,078 SQ. FT. HI-RISE OFFICE REMODEL 1-12-1-B-A 2021 IBC"
+    },
+    {
+      "zip": "77092",
+      "issued": "2026/09/10",
+      "type": "Building Pmt",
+      "number": "26061917",
+      "address": "12200 NORTHWEST FWY 150",
+      "description": "4,277 SF RETAIL DEMISE SHELL BUILDOUT 1-1-2-M-B-SPK-FA 2021 IBC"
+    },
+    {
+      "zip": "77092",
+      "issued": "2026/09/09",
+      "type": "Demolition",
+      "number": "26076729",
+      "address": "3921 BROOKWOODS DR",
+      "description": "DEMO RES/SEWER DISC"
+    },
+    {
+      "zip": "77092",
+      "issued": "2026/09/11",
+      "type": "Building Pmt",
+      "number": "26079801",
+      "address": "6206 GOLDEN FOREST DR",
+      "description": "NEW RESIDENTIAL SWIMMING POOL W/SPA 2021 IRC 2021 IECC"
+    },
+    {
+      "zip": "77093",
+      "issued": "2026/09/11",
+      "type": "Building Pmt",
+      "number": "26021676",
+      "address": "8212 JENSEN DR",
+      "description": "3,900 SF. CONVERT TO OUTPATIENT CLINIC 1-1-5-B-B 2021 IBC 100"
+    },
+    {
+      "zip": "77093",
+      "issued": "2026/09/08",
+      "type": "Building Pmt",
+      "number": "26042933",
+      "address": "10401 JENSEN DR",
+      "description": "EXTERIOR GREASE TRAP REPLACEMENT 2021 IBC"
+    },
+    {
+      "zip": "77096",
+      "issued": "2026/09/10",
+      "type": "Building Pmt",
+      "number": "26069756",
+      "address": "6023 LYMBAR DR",
+      "description": "RESIDENTIAL FOUNDATION REPAIR (5 EXTERIOR AND 6 INTERIOR PILES)"
+    },
+    {
+      "zip": "77096",
+      "issued": "2026/09/10",
+      "type": "Building Pmt",
+      "number": "26074684",
+      "address": "6107 QUEENSLOCH DR",
+      "description": "SF RESIDENTIAL FOUNDATION REPAIR 1-1-5-R3-B 2021 IRC"
+    },
+    {
+      "zip": "77096",
+      "issued": "2026/09/11",
+      "type": "Building Pmt",
+      "number": "26075268",
+      "address": "5147 JACKWOOD ST",
+      "description": "RESIDENTIAL SWIMMING POOL / SPA 2021 IRC / IECC"
+    },
+    {
+      "zip": "77096",
+      "issued": "2026/09/09",
+      "type": "Building Pmt",
+      "number": "26076070",
+      "address": "5755 ARIEL ST",
+      "description": "SF RESIDENTIAL FOUNDATION REPAIR 1-1-5-R3-B 2021 IRC"
+    },
+    {
+      "zip": "77096",
+      "issued": "2026/09/09",
+      "type": "Building Pmt",
+      "number": "26076904",
+      "address": "11107 CEDARHURST DR",
+      "description": "SF RESIDENTIAL FOUNDATION REPAIR 1-1-5-R3-B 2021 IRC"
+    },
+    {
+      "zip": "77096",
+      "issued": "2026/09/11",
+      "type": "Building Pmt",
+      "number": "26076914",
+      "address": "5243 VALKEITH DR",
+      "description": "RESIDENTIAL FOUNDATION REPAIR (15 EXTERIOR)"
+    },
+    {
+      "zip": "77096",
+      "issued": "2026/09/11",
+      "type": "Building Pmt",
+      "number": "26077135",
+      "address": "10922 BRAEWICK DR",
+      "description": "RESIDENTIAL FOUNDATION REPAIR (32 EXTERIOR AND 12 INTERIOR PILES)"
+    },
+    {
+      "zip": "77098",
+      "issued": "2026/09/08",
+      "type": "Building Pmt",
+      "number": "26064510",
+      "address": "1927 SOUTH BLVD",
+      "description": "NEW RESIDENTIAL SWIMMING POOL W/SPA 2021 IRC 2021 IECC"
+    },
+    {
+      "zip": "77098",
+      "issued": "2026/09/09",
+      "type": "Demolition",
+      "number": "26065314",
+      "address": "1802 LEXINGTON ST",
+      "description": "RES DEMO/ SEWER DISC"
+    },
+    {
+      "zip": "77098",
+      "issued": "2026/09/09",
+      "type": "Building Pmt",
+      "number": "26078785",
+      "address": "2022 BRANARD ST",
+      "description": "PPR - APARTMENT REPAIRS PER SPEC LIST 1-2-5-R2-B 2021 IBC"
+    },
+    {
+      "zip": "77099",
+      "issued": "2026/09/11",
+      "type": "Building Pmt",
+      "number": "26079906",
+      "address": "11839 LAMPREY ST",
+      "description": "MINOR RESIDENTIAL REPAIRS, SINGLE FAMILY RESIDENTIAL"
+    },
+    {
+      "zip": "77336",
+      "issued": "2026/09/10",
+      "type": "Building Pmt",
+      "number": "26074769",
+      "address": "222 EMERALD THICKET LN",
+      "description": "QS2 S.F. RES. ATT. GAR (REPEAT MODEL-1918-A) 12 IRC/15 IECC"
+    },
+    {
+      "zip": "77336",
+      "issued": "2026/09/10",
+      "type": "Building Pmt",
+      "number": "26075140",
+      "address": "24707 LAGO BAY LN",
+      "description": "SF RESIDENTIAL SOLAR PANEL ADDITION 1-2-5-R3-B 2021 IRC"
+    },
+    {
+      "zip": "77339",
+      "issued": "2026/09/09",
+      "type": "Building Pmt",
+      "number": "23119768",
+      "address": "3603 W LAKE HOUSTON PKY",
+      "description": "139,723 SF SCHOOL REMODEL(M/3)1-1-2-E/S1-B '15IBC NFPA13"
+    },
+    {
+      "zip": "77339",
+      "issued": "2026/09/11",
+      "type": "Building Pmt",
+      "number": "25036473",
+      "address": "1814 HAMBLEN RD",
+      "description": "S.F. RES W/ATT. GARAGE (1-2-5-R3-B) 21 IRC/21 IECC"
+    },
+    {
+      "zip": "77339",
+      "issued": "2026/09/09",
+      "type": "Building Pmt",
+      "number": "26018501",
+      "address": "2139 LAKE HILLS DR BLD 9",
+      "description": "EMERGENCY HABITABILITY REPAIRS SUB BLD 9 SEE MASTER 22002385"
+    },
+    {
+      "zip": "77339",
+      "issued": "2026/09/09",
+      "type": "Building Pmt",
+      "number": "26018502",
+      "address": "2139 LAKE HILLS DR BLD11",
+      "description": "EMERGENCY HABITABILITY REPAIRS SUB BLD 11 SEE MASTER 22002385"
+    },
+    {
+      "zip": "77339",
+      "issued": "2026/09/09",
+      "type": "Building Pmt",
+      "number": "26018506",
+      "address": "2139 LAKE HILLS DR",
+      "description": "EMERGENCY HABITABILITY REPAIRS SUB BLD POOL SEE MASTER 22002385"
+    },
+    {
+      "zip": "77339",
+      "issued": "2026/09/11",
+      "type": "Building Pmt",
+      "number": "26053384",
+      "address": "3020 NORTHPARK DR",
+      "description": "EXTERIOR RETAIL/OFFICE REMODEL 1-1-2-M/B-B 2021 IBC"
+    },
+    {
+      "zip": "77339",
+      "issued": "2026/09/08",
+      "type": "Building Pmt",
+      "number": "26078540",
+      "address": "3518 DEERBROOK DR",
+      "description": "MINOR RESIDENTIAL REPAIRS, SINGLE FAMILY RESIDENTIAL"
+    },
+    {
+      "zip": "77345",
+      "issued": "2026/09/09",
+      "type": "Building Pmt",
+      "number": "23119769",
+      "address": "2910 HIGH VALLEY DR",
+      "description": "138,355 SF SCHOOL RMDL (M/3) 1-1-2-E-A-SPK/FA '15IBC"
+    },
+    {
+      "zip": "77345",
+      "issued": "2026/09/10",
+      "type": "Building Pmt",
+      "number": "26041426",
+      "address": "3223 PLAZA PINES DR",
+      "description": "RESIDENTIAL PATIO COVER ADDITION 2021 IRC"
+    },
+    {
+      "zip": "77345",
+      "issued": "2026/09/10",
+      "type": "Building Pmt",
+      "number": "26054831",
+      "address": "4211 BROAD LEAF ST",
+      "description": "RESIDENTIAL ADDITION 2021 IRC"
+    },
+    {
+      "zip": "77345",
+      "issued": "2026/09/11",
+      "type": "Building Pmt",
+      "number": "26064736",
+      "address": "9 FOREST COURSE WAY",
+      "description": "RESIDENTIAL SWIMMING POOL 2021 IRC"
+    },
+    {
+      "zip": "77345",
+      "issued": "2026/09/11",
+      "type": "Building Pmt",
+      "number": "26077230",
+      "address": "3206 CEDAR VILLAGE DR",
+      "description": "RESIDENTIAL FOUNDATION REPAIR (3 EXTERIOR PILES) 2021 IRC"
+    },
+    {
+      "zip": "77345",
+      "issued": "2026/09/08",
+      "type": "Building Pmt",
+      "number": "26078245",
+      "address": "2522 DEER MOUNTAIN CT",
+      "description": "MINOR RESIDENTIAL REPAIRS, SINGLE FAMILY RESIDENTIAL"
+    },
+    {
+      "zip": "77345",
+      "issued": "2026/09/09",
+      "type": "Building Pmt",
+      "number": "26078834",
+      "address": "3222 KNOLL MANOR DR",
+      "description": "MINOR RESIDENTIAL REPAIRS, SINGLE FAMILY RESIDENTIAL"
+    },
+    {
+      "zip": "77345",
+      "issued": "2026/09/10",
+      "type": "Building Pmt",
+      "number": "26079199",
+      "address": "4423 VANDERMERE CT",
+      "description": "MINOR RESIDENTIAL REPAIRS, SINGLE FAMILY RESIDENTIAL"
+    },
+    {
+      "zip": "77489",
+      "issued": "2026/09/08",
+      "type": "Building Pmt",
+      "number": "26056841",
+      "address": "16741 BLUE RIDGE COMMERCE DR",
+      "description": "64SF/ EXISTING WAREHOUSE/ADD CRANE FOUNDATION/ 1-1-2-S1-B 2021 IBC"
+    }
+  ]
+}

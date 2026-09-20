@@ -1,6 +1,6 @@
 # PermitPulse
 
-A free, static permit-research website focused on Austin, San Antonio, Dallas, and Houston. It searches official Austin data and Dallas's explicitly historical dataset directly from the browser. Address autocomplete and example searches use those same official feeds. San Antonio and Houston route users to their official tools because their current public interfaces require city-side filtering.
+A free, static permit-research website focused on Austin, San Antonio, Dallas, and Houston. Austin, San Antonio, and historical Dallas records are queried from official public APIs. Houston searches a locally hosted snapshot of the city's current weekly Permit Activity Report. Address autocomplete and example searches stay inside PermitPulse.
 
 ## Run locally
 
@@ -21,10 +21,10 @@ npm run check
 
 - Austin: [Issued Construction Permits](https://data.austintexas.gov/Building-and-Development/Issued-Construction-Permits/3syk-w9eu), searched live through its public Socrata API.
 - Dallas: [Building Permits](https://www.dallasopendata.com/Services/Building-Permits/e7gq-4sah), a historical dataset that the publisher says is no longer updated. Current lookup uses [Dallas Accela](https://aca-prod.accela.com/DALLASTX/Login.aspx).
-- San Antonio: [Development Services Reports](https://www.sa.gov/Directory/Departments/DSD/About/Reports).
-- Houston: [Sold Permits Search](https://www.houstonpermittingcenter.org/sold-permits-search), described by the city as a rolling three-year search.
+- San Antonio: [Building Permits](https://data.sanantonio.gov/dataset/building-permits), searched live through its public CKAN API across current and 2020–2024 issued-permit resources.
+- Houston: [Permit Activity Report](https://houstontx.gov/planning/Publications/listsrv/WebeReport.html), stored as a searchable weekly snapshot. The broader [Sold Permits Search](https://www.houstonpermittingcenter.org/sold-permits-search) remains the official route for its rolling three-year scope.
 
-Queries go from the visitor's browser to the selected city's open-data endpoint. PermitPulse has no server, account system, analytics, database, or paid service. A missing result is never presented as evidence of compliance, safety, or absence of work.
+Austin, San Antonio, and Dallas queries go from the visitor's browser to the selected city's open-data endpoint. Houston queries the static weekly snapshot in this repository. PermitPulse has no server, account system, analytics, database, or paid service. A missing result is never presented as evidence of compliance, safety, or absence of work.
 
 ## Structure
 
