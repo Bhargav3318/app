@@ -1,4 +1,4 @@
-<!doctype html><meta charset="utf-8"><title>PermitPulse browser smoke test</title><body>RUNNING<script type="module">
+<!doctype html><meta charset="utf-8"><title>PermitTap browser smoke test</title><body>RUNNING<script type="module">
 import{CITY_BY_ID,searchPermits,suggestAddresses}from'../src/data.js?v=4';
 const sa=await searchPermits({city:CITY_BY_ID['san-antonio'],query:'12215 JEREMIAH',mode:'address'});
 const hs=await suggestAddresses({city:CITY_BY_ID.houston,query:'1201'});

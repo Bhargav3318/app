@@ -1,6 +1,6 @@
-# PermitPulse
+# PermitTap
 
-A free, static permit-research website focused on Austin, San Antonio, Dallas, and Houston. Austin, San Antonio, and historical Dallas records are queried from official public APIs. Houston searches a locally hosted snapshot of the city's current weekly Permit Activity Report. Address autocomplete and example searches stay inside PermitPulse.
+A free, static permit-research website focused on Austin, San Antonio, Dallas, and Houston. Austin, San Antonio, and historical Dallas records are queried from official public APIs. Houston searches a locally hosted snapshot of the city's current weekly Permit Activity Report. Address autocomplete stays inside PermitTap.
 
 ## Run locally
 
@@ -24,7 +24,7 @@ npm run check
 - San Antonio: [Building Permits](https://data.sanantonio.gov/dataset/building-permits), searched live through its public CKAN API across current and 2020–2024 issued-permit resources.
 - Houston: [Permit Activity Report](https://houstontx.gov/planning/Publications/listsrv/WebeReport.html), stored as a searchable weekly snapshot. The broader [Sold Permits Search](https://www.houstonpermittingcenter.org/sold-permits-search) remains the official route for its rolling three-year scope.
 
-Austin, San Antonio, and Dallas queries go from the visitor's browser to the selected city's open-data endpoint. Houston queries the static weekly snapshot in this repository. PermitPulse has no server, account system, analytics, database, or paid service. A missing result is never presented as evidence of compliance, safety, or absence of work.
+Austin, San Antonio, and Dallas queries go from the visitor's browser to the selected city's open-data endpoint. Houston queries the static weekly snapshot in this repository. PermitTap has no server, account system, analytics, database, or paid service. A missing result is never presented as evidence of compliance, safety, or absence of work.
 
 ## Structure
 
