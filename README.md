@@ -1,6 +1,6 @@
 # PermitPulse
 
-A free, static permit-research website focused on Austin, San Antonio, Dallas, and Houston. It searches official Austin data and Dallas's explicitly historical dataset directly from the browser. San Antonio and Houston route users to their official tools because their current public interfaces require city-side filtering.
+A free, static permit-research website focused on Austin, San Antonio, Dallas, and Houston. It searches official Austin data and Dallas's explicitly historical dataset directly from the browser. Address autocomplete and example searches use those same official feeds. San Antonio and Houston route users to their official tools because their current public interfaces require city-side filtering.
 
 ## Run locally
 
