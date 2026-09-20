@@ -26,6 +26,8 @@ npm run check
 
 Austin, San Antonio, and Dallas queries go from the visitor's browser to the selected city's open-data endpoint. Houston queries the static weekly snapshot in this repository. PermitTap has no server, account system, analytics, database, or paid service. A missing result is never presented as evidence of compliance, safety, or absence of work.
 
+PermitTap requests only permit details needed for search and results. It does not request owner, applicant, contractor, email, or telephone fields. Street addresses are public permit-record locations and may identify residences.
+
 ## Structure
 
 ```text
